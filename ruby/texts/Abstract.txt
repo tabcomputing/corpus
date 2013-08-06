@@ -1,0 +1,287 @@
+This is an abstract corpus entry, so that certain words will be added to the
+corpus that might not normally be added.
+
+One set of words in particular that are difficult to find in readily available 
+corpus material are acronyms. So lets provide some examples for common acronyms
+and see how far they get.
+
+
+Acronyms
+--------
+
+Keeping up with the latest online lingo is tough. If SMH, TBH, or FOMO don’t ring a bell, you better read on to figure out what the hell people are saying in cyberspace these days.
+
+LOL means "Laugh Out Loud". As in t "That was LOL funny."
+
+SMH means “Shaking My Head,” an expression of disbelief or disapproval. Example: My colleague just showed up to work in a mesh shirt. SMH
+
+ICYMI means “In Case You Missed It.” Example: ICYMI, I started using frivolous acronyms.
+
+TBH means “To Be Honest.” Used similarly to IMHO, which extends out to “In My Honest Opinion.” Example: TBH, the thought of Mitt Romney dressed as a polar bear kind of turns me on.
+
+GIF stands for “Graphics Interchange Format,” which allows for a limited moving image, like a repeating moment from a movie. Once just the territory of “Saved by the Bell” memes, they’re now used by high-end publications like The Atlantic Wire.
+
+BTW means “By the Way.” Alternatively, you can say “BT dubs,” but you’ll just end up sounding like a 13-year-old girl. e.g. "BTW have you seen the new movie?" and "BTW there is a new Superman movie out."
+
+BFF means "Best Friend Forever". e.g. "We are BFF, right?"
+
+NP means “No Problem.” Used by people whose mothers never taught them to say thank you (or ty).
+
+ROTF means “Rolling on the Floor.” When LOL just isn’t enough.
+
+FOMO means “Fear of Missing Out”.  Used mostly by Type A startup entrepreneurs, like Anil Dash and Caterina Fake, who came up with the abbreviations.
+
+FYI means "For Your Information". e.g. "FYI I will be there next week." And, "FYI It's not that simple." FYI is generally used to start a message and is short way of saying, "just so you know".
+
+JOMO means “Joy of Missing Out.” See FOMO above.
+
+AWK means "Awkward.” Used by self-conscious liberal arts students, and parrots whose owners are too lazy to teach them to talk.
+
+YOLO means “You Only Live Once.” Coined by hip-hop star and unabashed nana-lover Drake, meaning that you should take risks and live life to the fullest — because if Steve Jobs couldn’t cheat death, the rest of us are probably screwed.
+
+BB is a vaguely condescending term of affection, short for “baby” --the sort of thing said by a girl who’s not going to sleep with you because she really values your friendship.
+
+TBT means “Throwback Thursday.” Usually used as a hashtag on Instagram and Twitter. #tbt is a chance to take a break from posting pictures of things that just happened.
+
+IRL means “In Real Life” — meaning not on the Internet, where most of us secretly prefer spending most of our time. After all, you can’t just sign off 10 minutes into getting a drink with that dude you kind of knew in college. Sorry, Brad, you just don’t make me lol IRL.
+
+WTF means "What the Fuck". WTF is a blunt expression of shock and concerned confusion. Somewhat like OMG, WTF is used when an alarming event just occurred, or some unexpected and disturbing news was just conveyed.
+
+TBH means "To Be Honest". TBH is an expression used to say 'I am being extra candid by saying this' or 'I am going to admit a weakness or partial failure on my part by saying this'.
+
+WYSIWYG means "What You See Is What You Get". WYSIWYG is a commonly used in reference to program interfaces, as in "A good word processor is WYSIWYG, whereas a text editor is not".
+
+XOXO is used to designate "hugs and kisses". The X's in XOXO stands for a kiss, and the O's in XOXO stand for a hug. XOXO is generally used to end a message to a loved one.
+
+TGIF is an ellated expression meaning, "Thank Goodness It's Friday." TGIF is frequenently used in all workplaces in anticipation of the weekend.
+
+YMMV means "Your Milage May Vary." YMMV is used to let others know that what has been demonstrated might not work as well for them, usually because of subjective matters. YMMV.
+
+SNAFU means "Situation Normal, All Fowled Up." Yea, SNAFU SNAFU SNAFU.
+
+The term RSVP comes from the French expression "répondez s'il vous plaît", meaning "please respond". If RSVP is written on an invitation it means the invited guest must tell the host whether or not they plan to attend the party. RSVP does not mean to respond only if you're coming, and it does not mean respond only if you're not coming (the expression "regrets only" is reserved for that instance). RSVP means the host needs a definite head count for the planned event, and needs it by the date specified on the invitation.
+
+DNA stands for Deoxyribonucleic Acid. DNA is the material the makes up biological genes.
+
+HTH means "Hope That Helps". HTH is a way to end a message expressing a hope that the message was helpful.
+
+AFAIK means "As Far As I Know". AFAIK is a common acronym, AFAIK.
+
+OTOH means "On The Other Hand." People use OTOH to offer an opposite opinion to the one they just gave. For example, "It could be fun. OTOH We might get in trouble."
+
+TTFN means "Ta Ta For Now." TTFN is said frequently by Tiger because he's the only one. TTFN.
+
+IOU IOU IOU IOU means "I Owe You".
+
+OMG means "Oh, My God." OMG OMG OMG
+
+QED is used to end a proof. QED stands for "Quod Erat Demonstrandum". It is Latin.
+
+ASAP means "As Soon As Possible." For example, "I will do it ASAP." ASAP is a common and old acronym.
+
+
+
+
+
+Common Expressions
+------------------
+
+Another set words we want to make sure get processed are common expressions.
+ 
+Bored to death.
+You've got to be kidding.
+Sick and tired.
+Call it a day.
+Get on one's nerves.
+Couch potato.
+Read one's mind.
+Feel blue.
+Fender bender.
+Get foot in the door.
+Give somebody a hard time.
+Make up one's mind.
+Go dutch.
+Throw in the towel.
+Be careful driving.
+Be careful.
+Can you translate this for  me?
+Chicago is very different from Boston.
+Don't worry.
+Everyone knows it.
+Everything is ready.
+Excellent.
+From time to time.
+Good idea.
+He likes it very much.
+Help!
+He's coming soon.
+He's right.
+He's very annoying.
+He's very famous.
+How are you?
+How's work  going?
+Hurry!
+I ate already.
+I can't hear you.
+I don't know how to use it.
+I don't like him.
+I don't like it.
+I don't speak very well.
+I don't understand.
+I don't want it. 
+I don't want that.
+I don't want to bother you.
+I feel good.
+I get off of work at six.
+I have a headache.
+I hope you and your wife have a nice trip.
+I know.
+I like her.
+Goose bumps.
+Stay in touch.
+Have the guts.
+Rain or shine.
+I'm beat.
+Easier said than done.
+It's about time.
+Jump to conclusions.
+Keep an eye on.
+Out of the blue.
+Know something inside out.
+Give someone a hand.
+Now and then.
+Nuke it.
+On the dot.
+I love you.
+Keeping my fingers crossed.
+Out of this world.
+Over one's head.
+Pain in the ass.
+Piece of cake.
+Sooner or later.
+Pull someone's leg.
+Put oneself in one's place.
+I can eat a horse.
+Read between the lines.
+Rings a bell.
+There must be a bug.
+Sleep on it.
+Play it by ear.
+Speak of the devil.
+Grab a bite.
+Take it easy.
+Go with the flow.
+Twenty-four seven.
+Under the weather.
+Don't sweat it.
+You can say that again.
+Beats me.
+I don't buy it.
+Keep your cool.
+Sort of.
+Good for you.
+Good luck.
+Who cares.
+Big deal.
+What a small world.
+What's going on?
+Now you're talking.
+Now who's talking.
+Over my dead body.
+Coming right up.
+Good thinking.
+Nothing matters.
+Come on!
+Never mind.
+If you insist.
+Stop It!
+It's nothing.
+What gives?
+Fair enough.
+Cat got your tongue.
+My pleasure
+It totally slipped my mind.
+Give it to me straight.
+It's written all over your face.
+Go for it.
+It's a deal
+Don't be a stranger
+Let's go fifty-fifty.
+Good for nothing
+You're telling me.
+Get a life
+Don't joke with me.
+Never tell me the odds.
+May the force be with you.
+Drive safe.
+Safe journey.
+I can't thank you enough.
+My two cents.
+Just name it.
+No worries.
+Why so blue?
+Nature calls.
+What's eating you?
+Shame on you.
+Hang in there.
+I owe you.
+Take a hike.
+It's a piece of cake.
+I'm on my way.
+I'm hosed.
+It's a long story.
+Since when.
+Got it.
+You wish.
+You're dressed to kill.
+Behave yourself.
+That figures.
+Do tell.
+No sweat.
+I blew it.
+Maddening.
+I messed up.
+I beg to differ.
+Rise and shine.
+You bet.
+Pie in the sky.
+No strings attached
+Sleep tight.
+It can't hurt.
+I couldn't agree with you more.
+Thank goodness.
+You made it.
+Whatever you say.
+I'm sick of it.
+Get out of here.
+You made it big.
+In your dreams.
+Hold on a sec.
+Wait just one sec.
+That's easier said than done.
+You never know.
+Back to the grind.
+It serves you right
+I can't wait.
+Lighten up.
+Good point.
+Just my luck.
+It's up to you.
+Hop In.
+I told you so.
+You know better than that.
+Has been burned.
+Keep me in the loop.
+I'll be down.
+Get to the point.
+Down to earth.
+Sure thing.
+
+
+Miscellaneous Words
+-------------------
+
+Grok is a made up word from the book "Stranger in a Strange Land." Grok means to fully understand something.
+
+Frak is a way to say "fuck" without getting fined by the FCC. Frak! Frak! Frak!
+

@@ -1,0 +1,19 @@
+--- !ruby/object:Corpus::Scanner
+file: /file/tab-computing/Projects/corpus/eg/sample.txt
+words:
+  a: 1
+  you: 2
+  the: 3
+bigrams:
+  ? - a
+    - you
+  : 1
+  ? - you
+    - you
+  : 1
+  ? - you
+    - the
+  : 1
+  ? - the
+    - the
+  : 2

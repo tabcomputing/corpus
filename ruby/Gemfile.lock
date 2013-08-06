@@ -1,0 +1,26 @@
+PATH
+  remote: .
+  specs:
+    corpus (0.1.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    ansi (1.4.3)
+    ergo (0.3.0)
+      notify
+    notify (0.5.2)
+    rubytest (0.7.0)
+      ansi
+    rubytest-cli (0.1.0)
+      ansi
+      rubytest (>= 0.7.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  corpus!
+  ergo
+  rubytest
+  rubytest-cli

@@ -1,0 +1,61 @@
+---
+revision: 2013
+type: ruby
+sources:
+- var
+authors:
+- name: trans
+  email: transfire@gmail.com
+organizations:
+- name: Rubyworks
+requirements:
+- groups:
+  - build
+  development: true
+  name: ergo
+- groups:
+  - test
+  development: true
+  name: rubytest
+- groups:
+  - test
+  development: true
+  name: rubytest-cli
+conflicts: []
+alternatives: []
+resources:
+- type: home
+  uri: http://tabcomputing.github.com/anise
+  label: Homepage
+- type: code
+  uri: http://github.com/tabcomputing/anise
+  label: Source Code
+- type: bugs
+  uri: http://github.com/tabcomputing/anise/issues
+  label: Issue Tracker
+- type: chat
+  uri: http://chat.us.freenode.net/tabcomputing
+  label: IRC Channel
+- type: mail
+  uri: http://groups.google.com/groups/tabcomputing-mailinglist
+  label: Mailing List
+repositories:
+- name: upstream
+  scm: git
+  uri: http://github.com/tabcomputing/corpus.git
+categories: []
+copyrights:
+- holder: Rubyworks
+  year: '2013'
+  license: BSD-2-Clause
+customs: []
+paths:
+  lib:
+  - lib
+name: corpus
+title: Corpus
+summary: Language Frequency Analysis
+created: '2013-07-21'
+description: "Corpus is a library for calculating word frequencies and \nrelated statistics."
+version: 0.1.0
+date: '2013-07-30'

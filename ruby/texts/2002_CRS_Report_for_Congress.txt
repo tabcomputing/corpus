@@ -1,0 +1,2095 @@
+For other versions of this document, see http://wikileaks.org/wiki/CRS-RL31011
+------------------------------------------------------------------------------
+
+                                                   Order Code RL31011
+
+
+
+
+                CRS Report for Congress
+                                    Received through the CRS Web
+
+
+
+
+                      Appropriations for FY2002:
+       Foreign Operations, Export Financing, and
+                              Related Programs
+
+
+
+                                       Updated February 4, 2002
+
+
+
+
+                                                      Larry Nowels
+                                       Specialist in Foreign Affairs
+                     Foreign Affairs, Defense, and Trade Division
+
+
+
+
+Congressional Research Service ~ The Library of Congress
+Appropriations are one part of a complex federal budget process that includes budget
+resolutions, appropriations (regular, supplemental, and continuing) bills, rescissions, and
+budget reconciliation bills. The process begins with the President's budget request and is
+bound by the rules of the House and Senate, the Congressional Budget and Impoundment
+Control Act of 1974 (as amended), the Budget Enforcement Act of 1990, and current program
+authorizations.
+
+This report is a guide to one of the 13 regular appropriations bills that Congress considers
+each year. It is designed to supplement the information provided by the House and Senate
+Foreign Operations Appropriations Subcommittees. It summarizes the current legislative
+status of the bill, its scope, major issues, funding levels, and related legislative activity. The
+report lists the key CRS staff relevant to the issues covered and related CRS products.
+
+This report is updated as soon as possible after major legislative developments, especially
+following legislative action in the committees and on the floor of the House and Senate.
+
+
+              NOTE: A Web version of this document with active links is
+              available to congressional staff at:
+              [http://www.crs.gov/products/appropriations/apppage.shtml].
+Appropriations for FY2002: Foreign Operations, Export
+          Financing, and Related Programs
+
+Summary
+     The annual Foreign Operations appropriations bill is the primary legislative
+vehicle through which Congress reviews the U.S. foreign aid budget and influences
+executive branch foreign policy making generally. It contains the largest share --
+over two-thirds -- of total U.S. international affairs spending.
+
+     President Bush requested $15.167 billion for FY2002 Foreign Operations, an
+amount 1.5% higher than enacted FY2001 appropriations. By comparison, foreign
+policy resources proposed for State Department, U.N. contributions, and other non-
+foreign aid activities would increase by 13.2% from FY2001, in nominal terms.
+Although the overall FY2002 Foreign Operations proposed increase was relatively
+small -- $224 million -- some activities funded in FY2001 would either not need new
+appropriations or would require smaller resources in FY2002, thereby freeing up
+funds for other initiatives. After adjusting the FY2001 base amount to reflect these
+reduced funding requirements that did not alter current policy, the request represented
+a higher increase for Foreign Operations -- $698 million, or 4.8% more, in nominal
+terms.
+
+      The FY2002 Foreign Operations request set most accounts at or near FY2001
+funding levels, while largely concentrating proposals to increase spending in a few
+areas -- disaster aid, global health, international narcotics control, and contributions
+to the World Bank and other international financial institutions. Likewise, the budget
+submission recommended cutting appropriations significantly in two accounts -- debt
+reduction resources for the Heavily Indebted Poor Country (HIPC) initiative and the
+Export-Import Bank  but only the latter represented a policy shift.
+
+      Except in one area, the FY2002 budget request represented few changes in the
+list of top U.S. foreign aid recipients. Israel, Egypt, and Jordan remained the leading
+recipients. The most significant change was the increase in aid for Latin American
+drug producing nations. Under the Administration's Andean Counterdrug Initiative,
+Colombia, Peru, and Bolivia would be among the leading 10 recipients of U.S. aid.
+
+      Following nearly six months of debate, Congress cleared for the President on
+December 20, 2001, a $15.35 billion Foreign Operations Appropriations for FY2002
+(P.L. 107-115; H.R. 2506). The measure is roughly midway between levels passed
+earlier by the House ($15.17 billion) and the Senate ($15.52 billion), and $178 million
+higher than requested by the President. This marks one of the few occasions when
+Congress has approved more spending for Foreign Operations than sought by the
+Administration. The amount is about $400 million, or 2.7% higher than for FY2001
+(excluding the $1.1 billion for Foreign Operations programs allocated from the
+terrorism emergency supplemental measure; P.L. 107-38). Highlights of the bill
+include: $779 million for the Export-Import Bank, nearly $100 million more than
+requested; $475 million for HIV/AIDS, up from the $429 million proposal; and $625
+million for the Andean Counternarcotics Initiative, a cut of $106 million from the
+request. The enacted measure drops Senate-passed language overturning the
+President's international family planning restrictions, but approved funding levels for
+population aid and UNFPA near the higher Senate-passed amounts.
+                                   Key Policy Staff
+        Area of Expertise                                   Name                            Tel.
+General: Policy issues & budget    Larry Nowels, Specialist, Foreign Affairs                7-7645
+General: Policy issues             Curt Tarnoff, Specialist, Foreign Affairs                7-7645
+Africa Aid                         Raymond Copson, Specialist, Intl Relations               7-7661
+Agency for Intl Development        Larry Nowels, Specialist, Foreign Affairs                7-7645
+                                   Curt Tarnoff, Specialist, Foreign Affairs                7-7656
+Andean Regional Initiative         Larry Storrs, Specialist, Latin American Affairs         7-7672
+Central Asia                       Jim Nichol, Analyst, Foreign Affairs                     7-2289
+Debt Relief                        Larry Nowels, Specialist, Foreign Affairs                7-7645
+Development Assistance             Larry Nowels, Specialist, Foreign Affairs                7-7645
+                                   Curt Tarnoff, Specialist, Foreign Affairs                7-7656
+Disaster aid                       Rhodi Margesson, Analyst, Foreign Affairs                7-0425
+Drug/counternarcotics programs     Raphael Perl, Specialist, International Affairs          7-7664
+Drug/counternarcotics, Colombia    Nina Serafino, Specialist, Intl Security Affairs         7-7667
+Export-Import Bank                 James Jackson, Specialist, Intl Trade & Finance          7-7751
+Family planning programs           Larry Nowels, Specialist, Foreign Affairs                7-7645
+Health programs                    Larry Nowels, Specialist, Foreign Affairs                7-7645
+HIV/AIDS                           Raymond Copson, Specialist, Intl Relations               7-7661
+International affairs budget       Larry Nowels, Specialist, Foreign Affairs                7-7645
+International Monetary Fund        Jonathan Sanford, Specialist, Intl Political Economics   7-7682
+                                   Jeff Hornbeck, Specialist, Intl Trade & Finance          7-7782
+Kosovo/Yugoslavia aid              Curt Tarnoff, Specialist, Foreign Affairs                7-7656
+Middle East assistance             Clyde Mark, Specialist, Mid-East Affairs                 7-7681
+Military aid/Arms sales            Richard Grimmett, Specialist, National Defense           7-7675
+Multilateral Development Banks     Jonathan Sanford, Specialist, Intl Political Economics   7-7682
+North Korea/KEDO                   Larry Niksch, Specialist, Asian Affairs                  7-7680
+Overseas Private Investment Corp   James Jackson, Specialist, Intl Trade & Finance          7-7751
+Peace Corps                        Curt Tarnoff, Specialist, Foreign Affairs                7-7656
+Peacekeeping                       Marjorie Browne, Specialist, International Relations     7-7695
+Refugee aid                        Larry Nowels, Specialist, Foreign Affairs                7-7645
+Russia/East Europe Aid             Curt Tarnoff, Specialist, Foreign Affairs                7-7656
+Terrorism                          Raphael Perl, Specialist, International Affairs          7-7664
+U.N. Voluntary Contributions       Vita Bite, Analyst, International Relations              7-7662
+Contents
+
+Key Policy Staff . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+
+Most Recent Developments . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+
+Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+
+Status . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+
+Foreign Operations Funding Trends . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+     Foreign Operations, the FY2002 Budget Resolution, and Sec.
+          302(b) Allocations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+          Post-Terrorist Attack Foreign Operations Allocation . . . . . . . . . . . . . 7
+
+Foreign Operations Appropriations Request for FY2002 and
+     Congressional Consideration . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+     Request Overview . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+     Leading Foreign Aid Recipients Proposed for FY2002 . . . . . . . . . . . . . . . 10
+     Congressional Debate on Foreign Operations . . . . . . . . . . . . . . . . . . . . . . 11
+         House Consideration . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+         Senate Consideration . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+         Conference consideration . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+     Major Policy and Spending Issues . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+         Terrorism Issues in Foreign Operations . . . . . . . . . . . . . . . . . . . . . . 15
+         Export-Import Bank . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+         Development Aid Policy Priorities . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+         Family Planning and Abortion Restrictions . . . . . . . . . . . . . . . . . . . . 25
+         Debt Reduction -- HIPC . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 29
+         Andean Counterdrug Initiative . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 31
+
+Supplemental Appropriations, FY2001 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 33
+
+For Additional Reading . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 34
+
+Selected World Wide Web Sites . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 35
+
+Appendix -- Detailed Foreign Operations Accounts . . . . . . . . . . . . . . . . . . . . 37
+
+
+List of Figures
+Figure 1. Foreign Policy Budget, FY2002 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+Figure 2. Foreign Operations Appropriations, FY1977-2002 . . . . . . . . . . . . . . . 4
+List of Tables
+Table 1.   Status of Foreign Operations Appropriations, FY2002 . . . . . . . . . . . . 3
+Table 2.   Foreign Operations Appropriations, FY1995 to FY2002 . . . . . . . . . . . 5
+Table 3.   Summary of Foreign Operations Appropriations . . . . . . . . . . . . . . . . . 9
+Table 4.   Leading Recipients of U.S. Foreign Aid . . . . . . . . . . . . . . . . . . . . . . . 10
+Table 5.   Funding for Selected USAID Programs . . . . . . . . . . . . . . . . . . . . . . . 24
+Table 6.   Foreign Operations Accounts Discretionary Budget Authority . . . . . 37
+         Appropriations for FY2002:
+  Foreign Operations, Export Financing, and
+             Related Programs
+
+                   Most Recent Developments
+      On December 20, 2001, Congress cleared for the President's signature a
+$15.35 billion Foreign Operations Appropriations for FY2002 (H.R. 2506).
+President Bush signed the measure on January 10, 2002 (P.L. 107-115). Passage
+of the bill broke a month-long impasse over House-Senate disagreements concerning
+international family planning and abortion issues. As enacted, H.R. 2506 drops
+Senate language that would have overturned the President's abortion restrictions on
+bilateral U.S. population assistance, but appropriates funding for family planning
+programs closer to the higher amounts recommended by the Senate: $446.5 million
+for USAID activities and $34 million for the U.N. Population Fund (UNFPA).
+Subsequently, the White House placed a hold on UNFPA funds while it reviews the
+organization's program in China. No decision on how much, if any, of the $34
+million will be released has been made.
+
+     The $15.35 billion appropriation is roughly midway between levels passed
+earlier by the House ($15.17 billion) and the Senate ($15.52 billion), and $178
+million higher than requested by the President. This marks one of the few occasions
+when Congress has approved more spending for Foreign Operations than sought by
+the Administration. The amount is about $400 million, or 2.7% higher than for
+FY2001 (excluding the $1.1 billion for Foreign Operations programs allocated from
+the terrorism emergency supplemental measure; P.L. 107-38). Highlights of the
+enacted bill include: $779 million for the Export-Import Bank, nearly $100 million
+more than requested; $475 million for HIV/AIDS, up from the $429 million
+proposal; and $625 million for the Andean Counternarcotics Initiative, a cut of $106
+million from the request. H.R. 2506 further allows the President to waive
+restrictions on aid to Azerbaijan through at least December 31, 2002. Azerbaijan
+is one of several regional states that has offered support in the war against
+terrorism. The measure also provides Armenia with $90 million in economic aid and
+$4.3 million in military assistance.
+
+
+                                Introduction
+     The annual Foreign Operations appropriations bill is the primary legislative
+vehicle through which Congress reviews and votes on the U.S. foreign assistance
+                                           CRS-2
+
+budget and influences executive branch foreign policy making generally.1 It contains
+the largest share -- about two-thirds -- of total international affairs spending by the
+United States (see Figure 1). The legislation funds all U.S. bilateral development
+assistance programs, managed mostly by the U.S. Agency for International
+Development (USAID), together with several smaller independent foreign aid
+agencies, such as the Peace Corps and the Inter-American and African Development
+Foundations. Most humanitarian aid activities are funded within Foreign Operations,
+including USAID's disaster program and the State Department's refugee relief
+support. 2 Foreign Operations includes separate accounts for aid programs in the
+former Soviet Union (also referred to as the Independent States account) and
+Central/Eastern Europe, activities that are jointly managed by USAID and the State
+Department. Security assistance (economic and military aid) for Israel and Egypt is
+also part of the Foreign Operations spending measure, as are smaller security aid
+programs administered largely by the State Department, in conjunction with USAID
+and the Pentagon. U.S. contributions to the World Bank and other regional
+multilateral development banks, managed by the Treasury Department, and voluntary
+payments to international organizations, handled by the State Department, are also
+funded in the Foreign Operations bill. Finally, the legislation includes appropriations
+for three export promotion agencies: the Overseas Private Investment Corporation
+(OPIC), the Export-Import Bank, and the Trade and Development Agency.
+
+                   Figure 1. Foreign Policy Budget, FY2002
+
+
+
+
+1
+  Although the Foreign Operations appropriations bill is often characterized as the "foreign
+aid" spending measure, it does not include funding for all foreign aid programs. Food aid,
+administered under the P.L. 480 program, is appropriated in the Agriculture appropriations
+bill. Foreign Operations also includes funds for the Export-Import Bank, an activity that is
+not regarded as "foreign aid," but as a trade promotion program. In recent years, funding for
+food aid and the Eximbank have been about the same, so that Foreign Operations and the
+official "foreign aid" budget are nearly identical. Throughout this report, references to
+Foreign Operations and foreign aid are used interchangeably.
+2
+  Another international humanitarian aid program  food assistance or P.L. 480 title II grants
+ is funded under the Agriculture appropriations bill.
+                                         CRS-3
+
+     From the perspective of congressional oversight and involvement in U.S. foreign
+aid policymaking, the Foreign Operations bill has taken on even greater significance
+during the past 16 years. Congress has not enacted a foreign aid authorization bill
+since 1985, leaving most foreign assistance programs without regular authorizations
+emanating from the legislative oversight committees. As a result, Foreign Operations
+spending measures developed by the appropriations committees increasingly have
+expanded their scope beyond spending issues and played a major role in shaping,
+authorizing, and guiding both executive and congressional foreign aid and broader
+foreign policy initiatives. It has been largely through Foreign Operations
+appropriations that the United States has modified aid policy and resource allocation
+priorities since the end of the Cold War. The legislation has also been a key tool used
+by Congress to apply restrictions and conditions on Administration management of
+foreign assistance, actions that have frequently resulted in executive-legislative clashes
+over presidential prerogatives in foreign policy making.
+
+
+                                       Status
+ Table 1. Status of Foreign Operations Appropriations, FY2002
+
+  Subcomm.                                                      Conf. Report
+   Markup       House House Senate Senate Conf.                  Approval        Public
+                Report Passage Report Passage Report                              Law
+ House Senate                                                  House Senate
+                  7/17            9/4
+                          7/24               10/24 12/19 12/19 12/20   1/10
+  6/27         H. Rept.        S.Rept.
+                         381-46              96-2 107-345 356-66 V   107-115
+                107-142         107-58
+
+
+     President Bush submitted his FY2002 federal budget request to Congress on
+April 9, 2001, including funding proposals for Foreign Operations Appropriations
+programs. House and Senate Appropriations Committees are holding hearings on the
+proposal prior to marking up funding legislation. The House Foreign Operations
+Subcommittee adopted a draft spending bill on June 27, a measure that was amended
+and approved by the full Appropriations Committee on July 10. The bill -- H.R.
+2506 -- was reported on July 17. The House passed H.R. 2506 on July 24 after
+adopting several amendments. The Senate Appropriations Committee ordered
+reported its FY2002 Foreign Operations Appropriations measure on July 26, but did
+not file its report until September 4. The Senate passed H.R. 2506 on October 24,
+adopting numerous amendments, including some addressing anti-terrorism issues.
+Conferees met on November 14 to work out differences between the two bills, but
+could not finalize a few issues in dispute until December 19 when a conference report
+was filed. The House passed the conference measure on the same day (356-66), while
+the Senate adopted it on December 20 by voice vote. President Bush signed the
+legislation on January 10, 2002 (P.L. 107-115).
+
+     Earlier, the Senate, as part of H.R. 2216 (FY2001 Supplemental Appropriations
+Act), voted to include $100 million for an initial U.S. contribution to a new Global
+Fund to Fight HIV/AIDS, Malaria, and Tuberculosis. Conferees approved the
+additional $100 million for the Global Fund, partially offsetting the new resources
+                                        CRS-4
+
+with $20 million rescissions in prior year Child Survival and ESF appropriations.
+Congress cleared the measure on July 20 (P.L. 107-20). The Administration
+requested $200 million, $100 million of which would be drawn from Foreign
+Operations spending, but for FY2002, not from FY2001 as P.L. 107-20 provided.
+
+
+             Foreign Operations Funding Trends
+      In real terms, taking into account the effects of inflation, Foreign Operations
+funding levels have fluctuated widely over the past 25 years. Some of these swings,
+however, are not the result of policy decisions, but due to technical budget accounting
+changes involving how Congress "scores" various programs. For example, the large
+increase in FY1981 did not represent higher funding levels, but rather the fact that
+export credit programs began to be counted as appropriations rather than as "off-
+budget" items. Part of the substantial rise in spending in FY1985 came as a result of
+the requirement to appropriate the full amount of military aid loans rather than only
+a partial appropriation required in the past. Beginning in FY1992, Congress changed
+how all Federal credit programs are "scored" in appropriation bills which further
+altered the scoring of foreign aid loans funded in Foreign Operations.
+
+     All of these factors make it very difficult to present a precise and consistent data
+trend line in Foreign Operations funding levels. Nevertheless, the data shown in
+Figure 2 can be regarded as illustrative of general trends in Congressional decisions
+regarding Foreign Operations appropriations over the past 25 years.
+
+     After peaking at nearly $33 billion in FY1985 (constant FY2002 dollars),
+Foreign Operations appropriations began a period of decline to $13.6 billion in
+FY1997, with only a brief period of higher amounts in the early 1990s due to special
+supplementals for Panama and Nicaragua (1990), countries affected by the Gulf War
+(1991), and the former Soviet states (1993).
+
+               Figure 2. Foreign Operations Appropriations,
+                               FY1977-2002
+                                           CRS-5
+
+      Arguing that declining international affairs resources seriously undermined U.S.
+foreign policy interests and limited the ability of American officials to influence
+overseas events, Administration officials and other outside groups vigorously
+campaigned to reverse the decade-long decline in the foreign policy budget. For
+FY1998, Congress approved a 6% increase for Foreign Operations, followed by an
+even larger 15.5% increase for FY1999. Levels rose further to $17.4 billion (+5%)
+in FY2000, marking the highest Foreign Operations appropriations in eight years.
+(All figures in constant FY2002 dollars). Similar to increased funding during the early
+1990s, the large additional Foreign Operation budgets in FY1999 and FY2000
+resulted from significant supplemental spending addressing international
+contingencies, including Central American hurricane relief, Kosovo emergency
+assistance, Wye River/Middle East peace accord support and a counternarcotics
+initiative in Colombia.
+
+
+ Table 2. Foreign Operations Appropriations, FY1995 to FY2002
+            (discretionary budget authority in billions of current dollars)
+
+
+FY1995      FY1996      FY1997      FY1998      FY1999* FY2000         FY2001* FY2002*
+
+  13.611      12.456    12.267       13.147      15.439      16.363      14.943      15.345
+
+* FY1999 excludes $17.861 billion for the IMF. FY2001 and FY2002 exclude $5 million and
+$1.188 billion, respectively, allocated from the terrorism emergency supplemental appropriation
+(P.L. 107-38) for Foreign Operations programs.
+
+     With a much smaller supplemental ($80 million for the Global Health Fund)
+enacted for FY2001, Foreign Operations fell to $15.4 billion, in real terms. The
+FY2002 enacted amount is $15.35 billion, slightly less than FY2001, calculated using
+constant FY2002 dollars. Table 2, above, presents the enacted Foreign Operations
+funding levels for recent years, expressed in nominal, or current dollars that does not
+take into account the effects of inflation. Examined in nominal terms, the FY2002
+amount represents a 2.7% increase over FY2001.
+
+      As a share of the entire $1.9 trillion U.S. budget for FY2001, Foreign Operations
+represented a 0.79% share. As a portion of discretionary budget authority -- that
+part of the budget provided in annual appropriation acts (other than appropriated
+entitlements) -- Foreign Operations consumed 2.3%. By comparison, at the high
+point of Foreign Operations spending in FY1985, foreign aid funds represented 2%
+of the total U.S. budget and 4.6% of discretionary budget authority.
+                                       CRS-6
+
+ Data Notes
+
+      Unless otherwise indicated, this report expresses dollar amounts in terms of
+ discretionary budget authority. The Foreign Operations Appropriations bill
+ includes one mandatory program that is not included in figures and tables --
+ USAID's Foreign Service retirement fund. The retirement fund is scheduled to
+ receive $44.5 million for FY2002.
+
+       In addition, funding levels and trends discussed in this report exclude U.S.
+ contributions to the International Monetary Fund (IMF), proposals that are enacted
+ periodically (about every five years) in Foreign Operations bills. Congress
+ approved $17.9 billion for the IMF in FY1999, the first appropriation since
+ FY1993. Including these large, infrequent, and uniquely "scored" IMF
+ appropriations tends to distort a general analysis of Foreign Operations funding
+ trends. Although Congress provides new budget authority through appropriations
+ for the full amount of U.S. participation, the transaction is considered an exchange
+ of assets between the United States and the IMF, and results in no outlays from the
+ U.S. treasury. In short, the appropriations are off-set by the creation of a U.S.
+ counterpart claim on the IMF that is liquid and interest bearing. For more, see
+ CRS Report 96-279, U.S. Budgetary Treatment of the IMF.
+
+
+Foreign Operations, the FY2002 Budget Resolution, and
+Sec. 302(b) Allocations
+      Usually, Appropriation Committees begin markups of their spending bills only
+after Congress has adopted a budget resolution and funds have been distributed to the
+Appropriations panels under what is referred to as the Section 302(a) allocation
+process, a reference to the pertinent authority in the Congressional Budget Act.
+Following this, House and Senate Appropriations Committees separately decide how
+to allot the total amount available among their 13 subcommittees, staying within the
+functional guidelines set in the budget resolution. This second step is referred to as
+the Section 302(b) allocation. Foreign Operations funds fall within the International
+Affairs budget function (Function 150), representing in most years about 65% of the
+function total. Smaller amounts of Function 150 are included in three other
+appropriation bills.
+
+     How much International Affairs money to allocate to each of the four
+subcommittees, and how to distribute the funds among the numerous programs
+remain decisions exclusively reserved for the Appropriations Committees.
+Nevertheless, overall ceilings set in the budget resolution can have significant
+implications for the budget limitations within which the House and Senate Foreign
+Operations subcommittees will operate when they meet to mark up their annual
+appropriation bills.
+
+      In March and April 2001, the House and Senate, respectively, adopted different
+versions of an FY2002 budget blueprint (H.Con.Res. 83). For International Affairs,
+the House-passed measure supported the Bush Administration request of $23.9 billion
+in discretionary budget authority. The resolution adopted by the Senate increased
+                                       CRS-7
+
+foreign policy spending to $24.2 billion, by adopting an amendment by Senator Frist
+to boost international HIV/AIDS resources by $200 million in FY2002 and $500
+million in FY2003. The Senate further approved a Kerry amendment adding $50
+million annually for 10 years for international climate change programs.
+
+      The conference agreement on H.Con.Res. 83, as passed by both Houses during
+the week of May 7, however, modified the approach taken by House and Senate-
+approved resolutions. The approved version of H.Con.Res. 83 set discretionary
+budget authority for each budget function, including International Affairs, at the CBO
+baseline estimate. (The CBO baseline estimate was roughly the FY2001 level plus
+inflation.) Based on the CBO baseline estimate, the International Affairs discretionary
+budget for FY2002 in H.Con.Res. 83 was $23.2 billion, an amount $700 million
+below the President's request. Conferees, however, noted in their report (H.Rept.
+107-55) that figures for each budget function were included for "presentation"
+purposes, and except for the defense function which assumes the President's request,
+the amounts "do not reflect any specific policy orientation." Instead, House and
+Senate Appropriations Committees became responsible for allocating total
+discretionary budget authority to each of their 13 subcommittees to "address specific
+policy priorities." The only requirement was that the Appropriation Committees
+remained within the $661.3 billion total discretionary budget authority level approved
+in the resolution.
+
+      Prior to marking up the first of the 13 appropriation bills for FY2002, House and
+Senate Appropriation Committees issued their initial Sec. 302(b) allocations. The
+House panel provided $15.168 billion, the same amount as President Bush's request.
+The Senate Committee provided $15.524 billion, $357 million more than the proposal.
+This marked the first time in several years that the initial Foreign Operations
+allocation had been set at or above the President's request. More common had been
+the practice of setting the early mark $1-$2 billion below the budget recommendation,
+a level that was later revised upwards. The difference earlier this year was that both
+Committees had sufficient funds during their initial mark-ups to accommodate, if they
+chose, the President's request, and in the Senate's case, some additional funding
+initiatives. While the overall level basically matched or exceeded the Executive's
+proposed budget, the House made several changes in how the funds would be
+allocated among the various accounts and programs, as did the Senate Appropriations
+Committee when it met in late July.
+
+      Post-Terrorist Attack Foreign Operations Allocation. Even before the
+September 11 terrorist strikes, Congress was debating whether to increase the $561
+billion discretionary budget ceiling for FY2002 in order to augment funding for
+defense, education, and several natural disasters. Following the attacks, congressional
+leaders and the White House agreed to add $25 billion to accommodate increasing
+spending needs, a move pushing the ceiling up to $686 billion. Under a revised
+302(b) subcommittee allocation, Foreign Operations received $15.35 billion, midway
+between the earlier House and Senate levels, and reflecting the amount available for
+conference committee negotiators when they met to reconcile differences between
+House and Senate versions of the Foreign Operations spending bill.
+                                          CRS-8
+
+    Foreign Operations Appropriations Request for
+      FY2002 and Congressional Consideration
+Request Overview
+     In April 2001, President Bush asked Congress to appropriate $15.167 billion for
+FY2002 Foreign Operations. He subsequently amended the request on June 11,
+adding $200 million for a U.S. contribution to the new Global Fund to Fight
+HIV/AIDS, Malaria, and Tuberculosis. (Since the entire amount consists of transfers
+from existing requests and prior year appropriations, including $100 million from the
+Health and Human Services request, there is no change to the overall amount of
+Foreign Operations.) The amended Foreign Operations FY2002 request stands at
+$15.167 billion, an amount 1.5% higher than enacted FY2001 appropriations.3 In
+contrast, foreign policy resources for State Department, U.N. assessed contributions,
+and other non-foreign aid activities in the Commerce, Justice, and State Departments
+appropriation bill would increase by 13.2% from FY2001 in nominal terms.
+
+      Although the overall FY2002 Foreign Operations proposed increase was
+relatively small -- $224 million, or 1.5% -- some activities funded in FY2001 either
+did not need new appropriations or would require smaller resources in FY2002,
+thereby freeing up funds for other initiatives. For example, FY2001 totals included
+one-time funding for southern Africa flood relief ($135 million) and compensation to
+China for the mistaken bombing of its embassy in Belgrade ($28 million). A ten year
+plan to reduce aid to Israel and Egypt will enter its fourth year, resulting in a net
+reduction of $100 million for the two largest American aid recipients. The third and
+final year of U.S. pledged contributions to the Heavily Indebted Poor Country (HIPC)
+debt initiative required roughly half the amount appropriated in FY2001 ($435
+million). After revising the FY2001 base amount to reflect these reduced funding
+requirements that did not alter current policy, the request represented a somewhat
+higher increase for Foreign Operations -- $698 million, or 4.8% more, in nominal
+terms.
+
+     The FY2002 Foreign Operations request set most accounts at or near FY2001
+funding levels, while largely concentrating proposals to increase spending in a few
+areas:
+
+     !   Disaster aid would grow by 22% to $200 million.
+
+     !   International narcotics control funding, including the new Andean
+         initiative, would nearly triple to $948 million.
+
+     !   Global Fund to Fight HIV/AIDS, Malaria, and Tuberculosis
+         would receive $200 million, a new initiative for FY2002, for which
+         $100 million would be drawn from Foreign Operations, and $100
+
+
+3
+  All comparisons between the FY2002 request and enacted FY2001 appropriations include
+for FY2001 $80 million in additional Foreign Operations spending approved in P.L. 107-20,
+the FY2001 Supplemental Appropriations. In real terms, taking into the effects of inflation,
+the FY2002 proposal is about 0.6% less than current spending.
+                                                      CRS-9
+
+              million from the Health and Human Services budget. (Congress
+              accelerated the U.S. contribution by including $100 million from
+              Foreign Operations spending in the FY2001 Supplemental
+              Appropriations; P.L. 107-20.)
+
+          !   Contributions to the World Bank and other international financial
+              institutions would increase by 6% to $1.2 billion and cover all
+              scheduled U.S. payments to the multilateral development banks. The
+              request, however, included no funds for the $500 million arrears
+              owed by the United States.
+
+    Likewise, the budget submission recommended cutting appropriations significantly in
+    two accounts, only the first of which represented a policy shift:
+
+          !   Export-Import Bank funds would drop by 24.5% to $687 million.
+
+          !   Debt reduction resources for the Heavily Indebted Poor Country
+              (HIPC) initiative would fall by one-half to $224 million, but were
+              sufficient to fully fund the pledged U.S. contribution to the multi-
+              year debt relief program.
+
+          Table 3. Summary of Foreign Operations Appropriations
+                           (Discretionary funds  in millions of dollars)
+
+                                        FY2000 FY2001 FY2002 FY2002 FY2002 FY2002
+       Bill Title & Program
+                                        Enacted Enacted Request House Senate Enacted
+ Title I - Export Assistance              599.0          738.9     485.9     585.9     578.9       577.9
+ Title II - Bilateral Economic Aid      9,486.2        9,121.8   9,412.0 9,408.5 9,669.6          9,529.6
+   Development aid                      1,917.0        2,325.0   2,368.0 2,523.0 2,755.5          2,611.5
+   Israel/Egypt economic aid            1,676.4        1,532.6   1,375.0 1,375.0 1,375.0          1,375.0
+   Former Soviet Union                    835.8          808.2     808.0     768.0     795.5       784.0
+  Debt reduction                          123.0          447.0     224.0     224.0     224.0       229.0
+  Counter-terrorism                        32.0           42.0      42.0     42.0       42.0       42.0
+  Narcotics control/Andean Init         1,322.3          324.3     948.0     892.0     764.0       842.0
+ Title III - Military Assistance        4,985.2        3,752.5   3,874.0 3,827.0 3,889.0          3,855.0
+                                                  a
+    Israel/Egypt                        4,445.0        3,273.6   3,340.0 3,340.0 3,340.0          3,340.0
+ Title IV - Multilateral Aid            1,292.6        1,330.0   1,395.8 1,345.8 1,386.4          1,383.3
+ Total Foreign Operations             16,363.0        14,943.2 15,167.7 15,167.2 15,523.9 15,345.8
+Source: House and Senate Appropriations Committee and CRS calculations.
+
+* FY2000 and FY2001 levels have been adjusted to reflect reductions enacted for each year. The FY2000
+sequestration reduced the enacted Foreign Operations total by $47 million while the FY2001 0.22% rescission
+cut the enacted Foreign Operations by $33 million. FY2001 has been adjusted in include supplemental
+spending in P.L. 107-20, but excludes $1.1 billion for Foreign Operations programs provided in the terrorism
+emergency supplemental (P.L. 107-38). FY2002 has been adjusted to reflect the June 11 budget amendment.
+a
+  Includes $1.225 billion in supplemental Wye River Middle East peace support.
+                                               CRS-10
+
+     For two counter-terrorism programs managed by the State Department -- Anti-
+Terrorism Assistance and the Terrorist Interdiction Program -- the FY2002 request
+was the same amount of funding ($38 million and $4 million, respectively) as
+appropriated for FY2001. Following the September 11 terrorist attacks, Congress
+enacted a $40 billion emergency relief and counter-terrorism spending measure (P.L.
+107-38), out of which the Administration allocated an additional $98 million for
+various counterterrorism purposes.
+
+                Table 4. Leading Recipients of U.S. Foreign Aid
+                        (Appropriation Allocations; $s in millions)
+
+                                   FY2000                FY2001                  FY2002
+                                   Actual               Allocation              Allocation
+    Israel                          4,069a                2,814                    2,760b
+    Egypt                           2,054a                2,135                    1,956b
+    Pakistan                           4                     4                      629c
+    Colombia                         902                    49                      382
+    Jordan                           427a                  227                      227b
+    Peru                             121                    89                      196
+    Afghanistan                                                                   185c
+    Ukraine                          179                   165                      160b
+    Russia                           188                   160                      159
+    FRYugoslavia                      68                   172                      135
+    Indonesia                         94                   121                      125
+    Bolivia                          194                    87                      123
+    Kosovo                           165                   150                      118
+    Georgia                          112                    98                      101
+    Armenia                          105                    90                      95b
+    India                             52                    60                       78
+                                           a
+    West Bank/Gaza                   485                    85                       75
+a
+  Includes regular amounts for Israel, Egypt, Jordan, and the Palestinians, plus the Wye River peace
+accord: Israel -- $1.2 billion; Egypt -- $25 million; Jordan -- $200 million; Palestinians -- $400
+million.
+b
+  Earmarked in P.L. 107-115 for FY2002.
+c
+  Much of these amounts were drawn from the Emergency Response Fund appropriated in P.L. 107-
+38. Amounts for Afghanistan exclude $112 million in food aid pledged at the Tokyo reconstruction
+donor conference in January 2002.
+
+Note: Data exclude food aid, a program not appropriated in the Foreign Operations bill. With food
+aid included, the rank order above would change.
+
+Leading Foreign Aid Recipients Proposed for FY2002
+     Except in one area, the FY2002 budget requested few changes in the list of top
+U.S. foreign aid recipients. Israel, Egypt, and Jordan remained, as they have for a
+number of years, the leading recipients. Several countries in the Balkans and former
+                                       CRS-11
+
+Soviet Union -- FRY, Kosovo, Russia, Ukraine, and Georgia -- would continue to
+be among the top recipients, although at somewhat lower funding levels. The major
+change for FY2002, as shown in Table 4, was the significant increase in assistance for
+Latin American drug producing nations. Due to the Administration's Andean
+Counterdrug Initiative, Colombia, Peru, and Bolivia would be among the leading 12
+recipients of U.S. aid.
+
+      In the aftermath of the September 11 terrorist attacks, the planned allocation of
+foreign aid funds changed in a few and significant ways. The Administration has used
+economic and military assistance as an additional tool in efforts to maintain a cohesive
+international coalition to conduct the war on terrorism. Pakistan, for example, a key
+coalition partner on the border with Afghanistan, had been ineligible for U.S. aid,
+other than humanitarian assistance, due to sanctions imposed after India and Pakistan
+conducted nuclear tests in May 1998 and Pakistan experienced a military coup in
+1999. President Bush lifted the nuclear sanctions on September 22 and used a special
+authority (Sec. 614(a) of the Foreign Assistance Act of 1961) to transfer $100 million
+to Pakistan in late September and October. At the President's request, Congress
+approved (S. 1465; P.L. 107-57) a waiver through FY2003 for existing sanctions on
+aid to Pakistan leading to the release of an additional $500 million in economic aid.
+This $600 million total is part of a $1 billion Pakistan aid package announced by
+President Bush on November 10 that will include debt relief, IMF loans, and trade
+assistance. The Administration has also allocated assistance for other coalition
+partners, especially some of the "front-line" states, with additional aid. Uzbekistan
+received $40 million in economic assistance, Turkey and Uzbekistan got $45 million
+in military support, and several Central Asian states shared $6 million in conflict
+prevention assistance. Assistance planned for India, another "front-line" state, rose
+from $67 million requested to $78 million allocated.
+
+Congressional Debate on Foreign Operations
+      House Consideration. As passed by the House on July 24, H.R. 2506
+included $15.167 billion for Foreign Operations, but altered the allocation of money
+among several programs. The approved legislation restored about half of the
+President's proposed cut for the Export-Import Bank, reduced by $56 million the
+Andean Regional Initiative, but increased development aid activities by $155 million
+above the Administration's proposal. H.R. 2506 included the full Foreign Operations
+portion ($100 million) of the U.S. $200 million contribution to the new Global Fund
+to Fight HIV/AIDS, Malaria, and Tuberculosis. Overall, the legislation included
+about $487 million for combating HIV/AIDS, roughly $58 million more than
+proposed. Funding levels for Israel, Egypt, and Jordan were provided at the
+requested amounts, but Palestinian assistance was conditioned on the PLO's
+compliance with its policy to renounce terrorism and to take action against PLO
+officials involved in terrorist acts. The House further made available $100 million in
+earthquake relief for El Salvador, two-thirds of which would be drawn from various
+accounts in the FY2002 bill and the remainder from FY1999 and prior spending bills.
+
+      Earlier on June 27, by voice vote, the Foreign Operations Subcommittee rejected
+an amendment that would have overturned President Bush's abortion restrictions
+applied to international family planning programs. The bill, however, assumed the
+full $425 million requested for population aid and $25 million for the U.N. Population
+                                       CRS-12
+
+Fund. The family planning issue was not raised as an amendment during full House
+debate in July.
+
+     In most areas, the House bill matched the President's request, although for a few
+programs, amounts were reduced:
+
+     !   Economic aid under the ESF account to non-Camp David countries
+         fell $55 million below the request;
+
+     !   Aid to the former Soviet Union was set $40 million less than
+         proposed;
+
+     !   Contributions to the World Bank's Global Environment Facility fell
+         $25 million under the request.
+
+The House measure fully supported the President's request for Anti-Terrorism
+Assistance ($38 million) and the Terrorist Interdiction Program ($4 million).
+
+     During two days of debate (July 19 and 24), the House adopted several
+amendments that changed funding amounts for several accounts but did not alter the
+overall $15.167 billion bill total. Key amendments included:
+
+     !   Preventing mother-to-child HIV/AIDS transmission -- earmarking
+         $5 million (Millender-McDonald).
+
+     !   Vulnerable children and HIV/AIDS funding -- adding $5 million for
+         vulnerable children and $13 million for HIV/AIDS, offset by cuts for
+         the Export-Import Bank ($18 million) (Visclosky).
+
+     !   Tuberculosis funding -- adding $20 million to the $70 million
+         directed by the Committee-reported bill, offset by $10 million
+         reductions to each of the Multilateral Investment Guarantee Agency
+         and the Asian Development Fund (Brown, OH).
+
+     !   South Asia disaster relief -- adding $1 million for developing an
+         emergency response capability in South Asia, offset by a cut of $1
+         million in the Andean Counternarcotics Initiative (Crowley, as
+         amended by Kolbe).
+
+     !   Illegal trafficking in persons -- earmarking $30 million drawn from
+         six accounts to fund the Trafficking Victims Protection Act (Smith,
+         N.J.).
+
+     !   U.S. Civilian and military personnel involved in the Andean
+         Counternarcotics Initiative -- establishing an aggregate limit of 800
+         personnel (Conyers).
+
+     !   Andean Counternarcotics Funding -- withholding of $65 million
+         until the Secretary of State reports on the April 20, 2001 Peruvian
+         Air Force jet downing of a civilian aircraft in which two Americans
+         were killed (Hoekstra).
+                                       CRS-13
+
+
+The House rejected three amendments, two of which sought to add additional health-
+related funding while reducing Andean Counternarcotics Initiative (ACI)
+appropriations. An amendment increasing the U.S. contribution to the global health
+trust fund by $60 million and cutting ACI funds by $38 million and military aid by
+$22 million failed 188-240 (Lee). Another proposed amendment to increase child
+health and tuberculosis programs by $50 million each, offset by a $100 million ACI
+funding reduction, lost 179-249 (McGovern). A final amendment (Paul) to cut all
+funding for the Export-Import Bank failed 47-375.
+
+      Senate Consideration. The Senate Appropriations Committee, on July 26,
+ordered reported a $15.524 billion Foreign Operations measure, an amount $341
+million higher than the House bill and the President's request, and $581 million more
+than FY2001 levels. The Senate panel filed its report on September 4 (S.Rept. 107-
+58) and, following several weeks of delay, the Senate passed H.R. 2506 on October
+24. Although Senate amendments to the committee bill did not alter the overall total
+spending level of $15.524 billion, increases for HIV/AIDS and other health programs,
+debt relief for Yugoslavia, and higher contributions to the U.N. Population Fund
+resulted in reductions for the Export-Import Bank, aid to the former Soviet states,
+anti-drug assistance under the Andean Counternarcotics Initiative, and contributions
+to the Multilateral Investment Guarantee Agency. Highlights of the Senate bill, as
+passed, included:
+
+     !   Export-Import Bank -- like the House, restored about half of the
+         funding cut in the President's request.
+
+     !   Child Survival and other development assistance -- set funding at
+         $2.76 billion, $232 million higher than the House and $387 million
+         more than requested.
+
+     !   HIV/AIDS -- included $485 million, $55 million more than
+         requested; provided up to $90 million for the Global Fund to combat
+         AIDS, TB, and malaria.
+
+     !   Disaster aid -- increased by 23% the President's request to $245
+         million, providing additional funds for relief in El Salvador,
+         Afghanistan, Sudan, and elsewhere.
+
+     !   Country earmarks -- set spending for selected countries at or above
+         the President's request: Israel ($2.76 billion, as proposed); Egypt
+         ($1.956 billion, as proposed); Jordan ($228 million, as proposed);
+         Ukraine ($180 million, up from the $169 million proposed economic
+         aid); Armenia ($95 million, higher than the $70 million request); and
+         Georgia ($90 million, as proposed).
+
+     !   Andean Counternarcotics Initiative -- cut the drug-related initiative
+         to $547 million, $128 million less than the House and $184 million
+         below the Administration's request. Alternative development for the
+         Andean region was set at $151 million, as requested.
+                                        CRS-14
+
+     !   Family planning policy and funding -- increased population aid to
+         $450 million, set U.N. Population Fund level at $40 million, and
+         included language that would effectively overturn the President's
+         abortion restrictions on U.S. grants to foreign NGOs implementing
+         family planning activities.
+
+     !   Counter-terrorism -- provided full funding for the FY2002 request
+         of $38 million for Anti-Terrorism Assistance and $4 million for
+         Terrorist Interdiction.
+
+      Senate debate on H.R. 2506 occurred after the September 11 terrorist attacks,
+providing the opportunity to attach several amendments aimed at post-attack relief
+and response. The most actively debated amendment dealt with efforts to set aside
+prohibitions on U.S. assistance to Azerbaijan. For nearly a decade, section 907 of the
+Freedom Support Act (P.L. 102-511) has banned all but some export promotion,
+humanitarian, and democracy building U.S. aid to Azerbaijan until it ceases blockades
+and use of force against Armenia and Karabakh. According to the State Department,
+Azerbaijan has joined the international coalition to fight terrorism and granted the
+United States overflight rights, the use of its air bases, and has provided important
+intelligence cooperation. The section 907 ban, however, stood in the way of utilizing
+the Azerbaijan government support. The Senate amendment, sponsored by Senator
+Brownback and modified by Senator McConnell, allowed the President to waive
+section 907 until December 31, 2002, if he certified that it was necessary to counter
+terrorism and that any U.S. aid would not undermine or hamper ongoing efforts to
+negotiate a peaceful settlement between Armenia and Azerbaijan or be used for
+offensive purposes against Armenia. The President could extend the waiver annually
+after the end of 2002. In addition, the Senate adopted an amendment by Senator
+McConnell earmarking $4.6 million in military aid and training to Armenia. The
+Administration had not requested military assistance for Armenia.4
+
+(For a listing of other Senate amendments adopted on October 23 and 24 relating to
+terrorism issues, see discussion immediately below under Terrorism Issues in Foreign
+Operations.)
+
+     Conference consideration. On November 14, House and Senate conferees
+met and resolved all issues but those related to international family planning. Over
+a month later -- on December 19 -- conference managers reached agreement on
+these remaining matters in dispute, and Congress cleared H.R. 2506 for the White
+House on December 20.
+
+      As enacted, the $15.35 billion appropriation is roughly midway between levels
+passed earlier by the House ($15.17 billion) and the Senate ($15.52 billion), and $178
+million higher than requested by the President. This marks one of the few occasions
+when Congress has approved more spending for Foreign Operations than sought by
+the Administration. The amount is about $400 million, or 2.7% higher than for
+FY2001 (excluding the $1.1 billion for Foreign Operations programs allocated from
+the terrorism emergency supplemental measure, P.L. 107-38).
+
+
+4
+ For more on section 907 and the Armenia-Azerbaijan dispute, see CRS Issue Brief IB92109,
+Armenia-Azerbaijan Conflict.
+                                      CRS-15
+
+      On the final issue in dispute, conferees agreed to drop Senate language that
+would have overturned the President's abortion restrictions on bilateral U.S.
+population assistance, but to fund family planning programs closer to the higher
+amounts recommended by the Senate: $446.5 million for USAID activities and $34
+million for the U.N. Population Fund. (See below for further details on family
+planning provisions.)
+
+     Major funding and policy changes made in the enacted bill from earlier executive
+and congressional positions include:
+
+     !   Export-Import Bank -- $779 million, $131 million less than FY2001,
+         but nearly $100 million more than requested.
+
+     !   Development assistance -- $2.6 billion, nearly $300 million more
+         than appropriated in FY2001 and about $245 million higher than the
+         request.
+
+     !   HIV/AIDS -- $475 million, up from the $300 million FY2001
+         appropriation and the $429 million request. The bill provides for a
+         $100 million U.S. contribution to the Global HIV/AIDS, Malaria,
+         and Tuberculosis Health Fund, but draws $60 million from non-
+         HIV/AIDS resources making more funding available for direct
+         HIV/AIDS activities.
+
+     !   Andean Counternarcotics Initiative -- $625 million, a cut of $106
+         million from the request.
+
+     !   H.R. 2506 further allows the President to waive restrictions on aid
+         to Azerbaijan through at least December 31, 2002, as proposed by
+         the Senate. The measure also provides Armenia with $90 million in
+         economic aid and $4.3 million in military assistance.
+
+
+Major Policy and Spending Issues
+
+      Terrorism Issues in Foreign Operations. The annual Foreign Operations
+appropriations measure addresses terrorism issues at four levels: providing funds for
+two international counter-terrorism programs managed by the State Department;
+augmenting USAID's physical security needs at its overseas missions; assisting
+overseas victims of terrorist acts using weapons of mass destruction; and restricting
+assistance to countries that engage in terrorist activities or aid governments and
+organizations that do. In the wake of the September 11 terrorist attacks in the United
+States and enactment on September 18 of a $40 billion supplemental (P.L. 107-38),
+the President and Congress have allocated an additional $1.188 billion for Foreign
+Operations programs aimed at countering terrorism, assisting refugees and other
+victims of the war in Afghanistan, and aiding selected countries backing the
+international coalition to fight terrorist groups.
+
+     Anti-Terrorism Assistance (ATA). Since FY1984, the State Department
+has maintained the ATA program designed to maximize international cooperation in
+                                        CRS-16
+
+the battle against global terrorism. Through training, equipment transfers, and advice,
+the ATA program is intended to strengthen anti-terrorism capabilities of foreign law
+enforcement and security officials. Between 1984 and 1999 (the most recent year for
+which ATA data are available), over 23,000 officials from 112 countries participated
+in ATA programs. Two years ago, ATA conducted training programs in 32
+countries, with the largest number of students coming from 11 Middle East nations.
+The proposed FY2002 program would continue its Middle East focus, but augment
+training in Colombia and Ecuador, and several former Soviet states where emphasis
+would be placed on terrorist threats to gas pipelines and other energy sector targets.
+In FY1999, the ATA program added a new element specifically aimed at countering
+the use of weapons of mass destruction (WMD)  chemical, biological, radiological,
+nuclear  by terrorists. Following the 1998 terrorist bombings of U.S. embassies in
+Kenya and Tanzania, ATA funding more than doubled  to $41 million. Congress
+appropriated $38 million for FY2001 and the State Department requested the same
+amount for FY2002. About $1 million would support WMD activities. ATA funding
+is included within the Foreign Operations account of Non-proliferation, Anti-
+terrorism, Demining, and Related Programs (NADR).
+
+      Terrorist Interdiction Program (TIP). As one response to the 1998
+bombings of American embassies in East Africa, the State Department launched the
+Terrorist Interdiction Program, an activity intended to restrict the ability of terrorists
+to cross international borders, launch attacks, and escape. TIP strengthens border
+security systems in particularly vulnerable countries by installing border monitoring
+technology and training border security and immigration officials in its use, and by
+expanding access of international criminal information to participating nations. While
+the State Department has identified 34 countries as possible TIP recipients, programs
+in only five countries had been planned for each of FY2001 and FY2002. The
+Administration requested $4 million for TIP in FY2002, the same amount
+appropriated for FY2001. Like ATA, funds for TIP are part of the NADR account
+in the Foreign Operations spending bill.
+
+      USAID Physical Security. USAID maintains about 97 overseas facilities
+where much of its workforce  both Americans and foreign nationals  is located.
+Many missions are based in places where there is a high threat of terrorist activity, and
+especially since the 1998 embassy bombings in Kenya and Tanzania, agency officials
+have been concerned about the lack of adequate security. In countries where USAID
+is or is scheduled to be co-located with the U.S. embassy, the State Department's
+Foreign Buildings Operations office budget, which is appropriated in the Departments
+of Commerce, Justice, and State, has included $50 million for FY2001 and FY2002
+to construct facilities to house USAID operations. The money has not been released,
+however, delaying especially the construction of a building for USAID at the new
+embassy in Kampala, Uganda.
+
+     Security upgrades for the 64 overseas missions situated some distance from
+American embassies are provided out of USAID operating expenses, a Foreign
+Operations account that has been under funding stress in recent years due to agency
+relocation costs in Washington, replacement of failed financial management systems,
+and dwindling non-appropriated trust funds used to finance some in-country costs.
+The total USAID operating expense appropriation for FY2001 was $533 million, with
+$549 million approved for FY2002.
+                                        CRS-17
+
+     Funding for USAID physical security requirements drawn from the operating
+expenses account peaked in FY2000 at $22.6 million, but fell to $12.5 million in
+FY2001, and would decline further to $10.6 million in FY2002. The Administration
+says that the reduction is the result of a "variation in USAID's relocation expenses to
+move to more secure temporary facilities or to co-locate" with an embassy.5 Some
+estimate that USAID needs over $140 million to bring its overseas facilities, other
+than those co-located with U.S. embassies, up to government security standards.
+Approximately 90% of USAID overseas staff work at locations situated outside
+American embassy compounds.
+
+      USAID disaster relief. USAID's Office of Foreign Disaster Assistance
+(OFDA) provides emergency relief to overseas victims of natural disasters and
+conflict, and specifically maintains the capacity to aid victims of terrorist attacks,
+including those that involve weapons of mass destruction (WMD). The OFDA
+budget for FY2001 totaled $165 million, of which $0.8 million was allocated for
+terrorism-related purposes. The enacted total for FY2002 is $235.5 million, $1
+million of which was requested for defending against WMD incidents staged by
+terrorists.
+
+      Aid restrictions for terrorist states. Annual Foreign Operations spending
+bills routinely include general provisions prohibiting U.S. assistance to countries
+engaged in terrorist activities or providing certain types of support to terrorist groups.
+Included in the FY2002 funding measure are two:
+
+     !   Sec. 527 prohibits bilateral U.S. assistance to any country that the
+         President determines grants sanctuary from prosecution to any
+         individual or group which has committed an act of international
+         terrorism, or otherwise supports international terrorism. The
+         President may waive the restrictions for national security or
+         humanitarian reasons.
+
+     !   Sec. 544 prohibits any U.S. aid to a government which provides
+         lethal military equipment to a country that the Secretary of State has
+         determined is headed by a terrorist government. The President may
+         waive the requirement if it is important to U.S. national interests.
+
+Despite these restrictions, however, certain types of humanitarian foreign assistance
+may be provided "notwithstanding" other provisions of law, which would override the
+terrorism restrictions. Disaster and refugee relief, child survival and HIV/AIDS
+programs, emergency food and medicine, and demining operations are among the
+categories of U.S. assistance that could potentially be provided to a country that
+would otherwise be ineligible.
+
+     Additional aid, debt relief, and the relaxation of sanctions to
+countries supporting U.S. counter-terrorism efforts. As the United States
+attempts to build a strong international coalition of nations to combat terrorism, steps
+have been take to augment levels of economic and security assistance and debt relief
+
+
+5
+ Office of Management and Budget. Annual Report to Congress on Combating Terrorism.
+August 2001, p. 85.
+                                       CRS-18
+
+planned for FY2002 and beyond. This is consistent with previous situations, such as
+the Persian Gulf War during which the United States cancelled $6.7 billion of debt
+owed by Egypt and increased bilateral aid to Israel and Turkey.
+
+      Pakistan, which has pledged full support to the United States, has said it needs
+financial aid and debt cancellation to bolster its ailing economy. Pakistan owes the
+United States roughly $3 billion and was scheduled to receive economic aid totaling
+$7 million in FY2002 to support democracy promotion and basic education programs.
+Pakistan, however, was barred from receiving non-humanitarian bilateral foreign aid
+due to two Foreign Operations restrictions of assisting countries that have undergone
+a military coup and which are more than a year in arrears on debt payments to the
+United States. The President used his special but limited authority (Sec. 614(a) of the
+Foreign Assistance Act of 1961) on September 28 and October 16 to channel $100
+million in economic assistance to Pakistan. But he required legislative authority  as
+provided in S. 1465 that passed Congress and was signed by the President on October
+27 (P.L. 107-57)  to provide more assistance in the face of the two Foreign
+Operations restrictions. The President further announced on November 10 a $1
+billion aid package for Pakistan that will include debt relief, IMF loans, and trade
+assistance. Direct U.S. economic aid for Pakistan totals $600 million (including $100
+million from the earlier release) of the $1 billion package. The Administration has
+also allocated $91 million in additional economic and military support for Uzbekistan,
+Turkey, and other Central Asian states. All of these amounts are drawn from the $40
+billion Anti-Terrorism Emergency Supplemental Appropriations (P.L. 107-38) the
+Congress approved in September. Congress further added an additional $50 million
+for humanitarian and reconstruction needs in Afghanistan when it allocated (H.R.
+3338) the second $20 billion portion of P.L. 107-38 funds.
+
+      Congressional debate. Prior to the terrorist attacks of September 11,
+Congress, in preliminary action on H.R. 2506, had fully supported the President's
+Anti-Terrorism Assistance ($38 million) and Terrorist Interdiction Program requests
+($4 million). House and Senate bills further provided the requested total for USAID
+operating expenses which would permit the agency to move forward with its $10.6
+million physical security plans for FY2002. These same levels are sustained in the
+enacted text of H.R. 2506. H.R. 2506 further continues for FY2002 the same two
+general provisions regarding aid restrictions for countries supporting terrorism
+(Sections 527 and 544). As noted above, Congress agreed to the Senate provision
+lifting the ban on U.S. aid to Azerbaijan until at least December 31, 2002, if the
+President certifies that the assistance is necessary to support American
+counterterrorism efforts. Finally, H.R. 2506 as passed includes a Senate amendment
+earmarking $15 million for programs to foster democracy, human rights, press
+freedoms, and the rule of law in countries with a significant Muslim population (Sec.
+584).
+
+    Conferees dropped from the bill several other terrorism-related amendments
+added by the Senate, choosing instead to address the issues in the conference report:
+
+     !   A report on U.S. military aid to Uzbekistan and the extent to which,
+         if any, Uzbek military units engaged in human rights violations (Sec.
+         585 of the Senate bill);
+                                       CRS-19
+
+     !   A sense of the Senate regarding the delivery of humanitarian aid to
+         Afghanistan (Sec. 586 of the Senate bill);
+     !   A sense of the Senate concerning the important role of Afghan
+         women in the country's reconstruction (Sec. 589 of the Senate bill);
+     !   A study by the Peace Corps to determine the feasibility of increasing
+         the number of Peace Corps volunteers in countries with large Muslim
+         populations (Sec. 593 of the Senate bill).
+
+      President Bush has further allocated substantial sums for foreign aid programs
+from the $40 billion emergency terrorism supplemental appropriation (P.L. 107-38)
+enacted on September 18. Nearly all additional spending for Foreign Operations
+programs came from the first $20 billion portion that was under control of the
+President. In several allocations announced since September 21, the President
+distributed $1.1 billion for Foreign Operations activities, including:
+
+     !   $75,000 for relocating the Export-Import Bank's New York office.
+
+     !   $17.4 million for USAID to enhance emergency communications in
+         Washington, to provide for the potential evacuation at six high-risk
+         USAID overseas posts, and for security upgrades at USAID
+         overseas missions.
+
+     !   $6.5 million for the evacuation of Peace Corps volunteers at nine
+         posts and to provide for the potential evacuation at other high-risk
+         Peace Corps locations.
+
+     !   $100 million for Afghan refugees and $96 million for other
+         humanitarian assistance in Afghanistan.
+
+     !   $600 million for economic aid and $73 million for enhanced border
+         security to Pakistan.
+
+     !   $40.5 million for economic and law enforcement support for
+         Uzbekistan and $6 million for Central Asian regional conflict
+         prevention.
+
+     !   $45 million in economic and military aid to Turkey and Uzbekistan.
+
+     !   $108 million for a variety of counter-terrorism training programs and
+         demining in Afghanistan.
+
+     !   $3 million to train governments to combat terrorist financing.
+
+The final $20 billion allocation, notified to Congress on October 16, did not include
+additional funds for Foreign Operations programs, but did propose the transfer of $50
+million from FY2001 State Department embassy security funds to USAID for the
+construction of secure USAID facilities in Kenya and Uganda. As enacted as part of
+the Defense Department Appropriation bill (H.R. 3338), Congress did not approve
+the $50 million transfer, but did add $50 million for additional USAID humanitarian
+and reconstruction efforts in Afghanistan.
+                                         CRS-20
+
+     Export-Import Bank.6 The Export-Import Bank is the chief U.S. government
+agency that helps finance American exports. With a budget of nearly $1 billion, the
+Bank finances around 2% of U.S. exports a year. Eximbank provides guarantees and
+insurance to commercial banks to make trade credits available to U.S. exporters. The
+Bank also offers direct financing to U.S. exporters on a limited basis, primarily to
+counter subsidized trade credits offered to foreign exporters by their governments.
+
+     Such government-sponsored trade financing, however, has long been
+controversial. One rationale for the Export-Import Bank is the acknowledged
+competition among nations' official export financing agencies. Most economists
+doubt, however, that a nation can improve its welfare over the long run by subsidizing
+exports. Economic policies within individual countries are the prime factors which
+determine interest rates, capital flows, and often exchange rates, which, in turn,
+largely determine the overall level of a nation's exports. This means that, at the
+national level, subsidized export financing merely shifts production among sectors
+within the economy, rather than adding to the overall level of economic activity, and
+subsidizes foreign consumption at the expense of the domestic economy. This also
+means that promoting exports through subsidized financing or through
+government-backed insurance and guarantees will not permanently raise the level of
+employment in the economy, but it will alter the composition of employment among
+the various sectors of the economy.
+
+     Some Eximbank opponents argue that the Bank's programs serve only to aid the
+richest American firms. Nevertheless, the Bank also is attempting to make its
+programs more accessible to small businesses, which account for 12 to 15% of the
+Bank's total authorizations. Some opponents further argue that, by providing
+financing or insurance for exporters that the market seems unwilling, or unable, to
+provide, Eximbank's activities draw from the financial resources within the economy
+that would be available for other uses. Another consideration is that subsidized
+export financing raises financing costs for all borrowers by drawing on financial
+resources that otherwise would be available for other uses, thereby possibly crowding
+out some borrowers from the financial markets. This crowding-out effect might nullify
+any positive impact subsidized export financing may have on the economy.
+
+     Eximbank supporters maintain that the Bank's programs are necessary for U.S.
+exporters to compete with foreign subsidized export financing and also to pressure
+foreign governments to eliminate concessionary financing. As a result, Eximbank is
+required in the Bank's Act to provide U.S. exporters with financing terms that are
+"competitive" with those offered by other official trade financing institutions. These,
+and other supporters of the Bank, also stress that deficiencies in financial markets bias
+those markets against exports of high value, long-term assets.
+
+      For FY2002, the Bush Administration proposed a $223 million, or 25% cut in
+spending for the Export-Import Bank. The Administration estimated that about $120
+million of the reduction was the result of lower risks in countries where the Eximbank
+would lend. Because the level of risk and prospects for repayment are factors in
+
+
+6
+  This section is drawn from CRS Report 98-568, Export-Import Bank: Background and
+Legislative Issues, by James K. Jackson. For more information on the issue, see the complete
+report.
+                                       CRS-21
+
+determining how much must be appropriated, this part of the proposed cut would not
+affect the level of Bank financing. But the remaining reduction of about $100 million
+would limit the Export-Import Bank's ability to meet continuing demands from
+American exporters. The Administration said that Bank lending would focus on U.S.
+businesses that have no access to private financing and would seek to increase the risk
+sharing with the private sector. Export coalitions opposed the proposed funding
+reduction arguing that it would result in fewer U.S. exports, lost American jobs, and
+would come at a time when major trading competitors were increasing their own
+export credit activities.
+
+     Congressional Debate. The House in H.R. 2506 provided $787 million for
+the Export-Import Bank, about mid-way between the amounts for FY2001 and the
+Administration's proposed cut for FY2002. The House Appropriations Committee
+had recommended $805 million, a level it believed would permit the Bank to maintain
+authorizations about $2 billion higher than this year and $1 billion more than proposed
+for FY2002. The full House adopted an amendment (Visclosky) reducing the
+appropriation level by $18 million, an action some estimated would cut Eximbank
+loan guarantees by $275 million from what the Committee recommended. Amendment
+proponents argued that last year, over the objections of the White House and some
+lawmakers, the Bank extended an $18 million loan guarantee package to Benxi Iron
+and Steel in China. This, they claimed, hurt American workers in the steel industry
+by extending credits to a Chinese firm that was involved in an anti-dumping case
+before the International Trade Commission. Critics of the amendment argued that
+reduced Eximbank funding would have little impact on the loan guarantee issued last
+year to Benxi Iron and Steel, but would cut into resources available to other American
+exporters trying to compete internationally.
+
+     The Senate bill, as reported from Committee, had provided a somewhat higher
+funding level than the House  $806 million  an amount the Committee believed
+would increase Bank financing in support of about $1 billion more exports than in
+FY2001. An amendment offered during Senate debate on H.R. 2506, however,
+reduced the Bank's funding level to $780 million, slightly below the House amount.
+The reduction was part of larger package of off-sets for increases in HIV/AIDS and
+other global health funding.
+
+     As enacted, H.R. 2506 provides $779 million, slightly below House and Senate-
+passed levels, but $92 million higher than the request. Conferees noted that the
+appropriation would provide the Exim Bank with an authorized operation level of
+$10.6 billion, about 15% higher than for FY2001. As an interim measure, the Foreign
+Operations Appropriations further extends the Bank's operating authority, which had
+expired on September 30, 2001, to March 31, 2002. Pending legislation in the House
+and Senate (H.R. 2871 and S. 1372) would extend the authority through 2005 and
+2006, respectively.
+
+     Development Aid Policy Priorities. Since the end of the Cold War, a
+recurring debate has focused on what should replace the anti-communist foreign aid
+rationale. A more fundamental question raised by some, especially critics of
+development assistance, is whether the United States needs to maintain an active,
+globally focused economic aid program. Many of these critics argue that aid can be
+transformed into a smaller, more targeted, and often privatized instrument to support
+                                        CRS-22
+
+only the highest priority U.S. foreign policy interests. A perspective promoted by
+Senator Helms and others suggests that development assistance could have a more
+significant impact if it was managed to a greater extent by non-governmental
+organizations  especially faith-based groups  rather than by the U.S. Agency for
+International Development (USAID). Senator Helms, for a number of years, has
+advocated the abolishment of USAID, the creation of a separate foundation that
+would issue development aid bloc grants to NGOs, universities, and other private
+groups, and transfer the remaining responsibilities of USAID to the State Department.
+
+      The Clinton Administration strongly supported the retention of an activist
+foreign aid policy which was used to bolster a variety of U.S. foreign policy initiatives
+around the world. During the 1990s, USAID based its program strategies around the
+principle of "sustainable development," and the goals of promoting economic growth,
+stabilizing global population and protecting health, protecting the environment,
+advancing democracy, developing human capacity through education, and providing
+humanitarian relief.
+
+     Congress maintains its own development aid funding priorities that in recent
+years have emphasized programs supporting child survival, basic education, and
+efforts to combat HIV/AIDS and other infectious diseases. The Administration also
+backed these programs, but officials objected to congressional efforts to increase
+funding for children and health activities at the expense of other development sectors.
+When Congress increased appropriations for its priorities but cut the overall
+development aid budget, some areas including, economic growth and the
+environment, received substantially reduced funding.
+
+      For FY2002, the Bush Administration sought $2.368 billion for development aid
+funded in the two Foreign Operations accounts of Child Survival/Health Programs
+and Development Assistance. This represented an increase of $133 million, or 6%
+over FY2001 levels. Most of the additional resources would fall in three areas.
+Bilateral HIV/AIDS funding would grow by $30 million to $329 million, basic
+education for children would increase by $20 million to $123 million, and $80 million
+would be available for a new Global Fund to Fight HIV/AIDS, Malaria, and
+Tuberculosis. (The Global Fund contribution would total $200 million with $100
+million coming from the Department of Health and Human Services budget and $20
+million from the FY2001 Foreign Operations bill.) During testimony at his
+confirmation hearing on April 25, USAID Administrator-designee Andrew Natsios
+expressed strong support for agriculture and food security programs, areas that would
+also receive additional funding in the FY2002 request. For most other development
+aid activities, it appeared that spending would remain the same or decline.
+
+     Beyond budget issues, USAID has re-aligned the core goals of sustainable
+development of the previous Administration and will allocate funds around three
+"spheres of emphasis" that include Global Health, Economic Growth and Agriculture,
+and Conflict Prevention and Developmental Relief. The Bush Administration further
+planned to launch a new initiative  the Global Development Alliance  in an effort
+to expand public/private partnerships in development program implementation. Under
+the proposal, USAID would identify good development opportunities being
+conducted by private foundations, non-governmental organizations, universities, and
+for-profit organizations, and provide parallel financing to leverage resources already
+committed to these activities. USAID officials envision that the agency will become
+                                         CRS-23
+
+much more of a coordinating and integrating institution to expand and enhance
+development efforts of these non-governmental development partners. Roughly $160
+million would be set aside in FY2002 to finance these projects. On the issue of
+USAID reorganization, Secretary of State Powell told several congressional
+committees that he would listen to proposals to abolish USAID or merge it into the
+State Department, but that he was not inclined to propose any change in the current
+organizational alignment.
+
+      Congressional Debate. Legislation passed by the House included $2.523
+billion in development assistance for FY2002, a level $155 million above the request
+and nearly $200 million higher than amounts for FY2001.7 The House considered
+several amendments  adopting some and rejecting others  that proposed increases
+beyond Committee-recommended levels for health programs. (See above under
+House consideration of H.R. 2506.) The House bill fully funded the proposed $100
+million U.S. contribution for the Global Fund to Fight HIV/AIDS, Malaria, and
+Tuberculosis. (This amount is made up of $80 million in H.R. 2506 and $20 million
+from the FY2001 appropriation. Another $100 million for the Fund was considered
+and adopted in the Labor/HHS spending bill. Earlier, Congress approved $100
+million in Foreign Operations money for the Fund as part of the FY2001
+Supplemental Appropriations; P.L. 107-20). The legislation provided $487 million
+overall to combat HIV/AIDS.
+
+     H.R. 2506, as passed the House, further blocked USAID's major new initiative
+-- the Global Development Alliance (GDA). The House Appropriations Committee
+expressed support for agency's efforts to expand cooperation with private entities and
+found the GDA concept "intriguing." The House panel, however, felt that it had not
+received sufficient details about the scope and operations of the proposed GDA and
+therefore directed that no programs funds in the FY2002 bill or prior Foreign
+Operations Appropriations acts could be set aside to implement the initiative.
+
+
+
+
+            Table 5. Funding for Selected USAID Programs
+           (tentative estimates across all accounts  in millions of dollars)
+
+
+
+
+7
+  All comparisons of development and child survival/health funding levels are based on the
+modified account structure proposed by the House and Senate Appropriations Committees in
+the FY2002 funding bills. The Committees recommend four major changes in the grouping
+of programs funded within the development and child survival/health accounts: 1) Basic
+education is moved from child survival to the development account; 2) Reproductive
+health/population aid is moved from the development to the child survival account; 3) Funds
+for the Inter-American Foundation and the African Development Foundation are not included
+in the development account, but separately under "Independent Agencies"; and 4) The
+proposed U.S. contribution to the Global Fund to Fight HIV/AIDS, Malaria, and
+Tuberculosis is included under the child survival/health account rather than a separate
+account managed by the Treasury Department, as proposed by the Administration.
+                                            CRS-24
+
+                                       FY2001 FY2002 FY2002                 FY2002 FY2002
+                   Program
+                                       Estimate Request House               Senate Estimate
+    Child & Health programs:
+    Child Survival/Maternal Health       295          298         295        325         320
+    HIV/AIDS                             315          429         487        485         475
+    Global Health Fund                  100a          100        100b        100b        100b
+    AIDS orphans/HIV Positive             15           15           20                   
+    Children
+    UNICEF                               110          110         120        120         120
+    Vaccine Fund                          50           50           60        51          53
+    Malaria                               49           45           49        65          65
+                                                            c           c
+    Tuberculosis                          70           40          90         80          75
+    Polio                                 27           27           25        30         27.5
+    Vulnerable Children                   30           28           30                   25
+    Micronutrients                        25           25           30        30          
+    Reproductive Health                  425          425         425        450        446.5
+    Basic Education                      103          123         150        135         150
+    American Schools/Hospitals            17           15           17        19          18
+    Microenterprise                      158          156         155        155          
+    Women in Development                  10           10           15        15          
+    Victims of Torture                    10           10           10                   10
+    Biodiversity                          97                      70d       100         100
+a
+    Appropriated in P.L. 107-20, the FY2001 Supplemental Appropriation.
+b
+ Portions of the $100 million contribution to the Global Trust Fund to Combat HIV/AIDS, Malaria,
+and Tuberculosis were assumed to be drawn from the HIV/AIDS earmark. The House bill assumed
+$60 million would be drawn from the $487 million available for HIV/AIDS; the Senate bill assumed
+that $90 million would be drawn from the $485 million available for HIV/AIDS; the conference
+agreement assumes that $40 million will be drawn from the $475 million available for HIV/AIDS.
+c
+ The requested figure represents funds only from the Child Survival account and is therefore lower
+than the other comparative figures. The House-passed bill for FY2002 level assumed an additional
+$20 million added by the Brown (OH) amendment to the Committee-reported $70 million target.
+d
+    Amounts are from the development account and exclude funds drawn from other accounts.
+
+
+     The Senate passed measure went further in additional resources for development
+activities, providing $2.76 billion, $232 million more than the House. An amendment
+adopted during Senate debate on H.R. 2506 boosted funding for bilateral HIV/AIDS
+programs and the U.S. contribution to the global health fund to levels at or near those
+passed by the House. The amendment further added $10 million each for malaria and
+tuberculosis programs. Amounts recommended or earmarked in the Senate measure
+for children and maternal health, population assistance, polio, and biodiversity also
+exceed those passed by the House or proposed by the Administration. Table 5
+                                        CRS-25
+
+compares several development and child survival/health program funding levels that
+received specific attention in both House and Senate versions of H.R. 2506. Like the
+House, the Senate Appropriations Committee found merit with the concept of the
+Global Development Alliance but felt insufficient details had been provided. Pending
+further consultations, the Committee directs that no program funds can be set aside
+for GDA activities.
+
+      As enacted, H.R. 2506 provides $2.6 billion for the two USAID core
+development assistance accounts, an amount roughly 12% higher than for FY2001
+and the Administration's request for FY2002. Nearly every major program priority,
+listed in Table 5, receives a significant funding boost over last year, and in many cases
+above the President's budget proposal. Although amounts for HIV/AIDS are set at
+$475 million, below both the House and Senate levels, the conference report directs
+that fewer of these funds be transferred as part of a U.S. contribution to the Global
+Health Trust Fund for combating AIDS, tuberculosis, and malaria. Consequently,
+$435 million of the earmark remains for bilateral HIV/AIDS programs rather than
+$427 million assumed in the House bill and $395 million assumed in the Senate
+measure. Other significant increases above FY2001 levels enacted in H.R. 2506
+include:
+
+     !   UNICEF contribution  up 9% from FY2001
+     !   malaria  up one-third
+     !   micronutrients  up 20%
+     !   basic education  up 46%
+     !   women in development  up 50%
+
+Conferees also opened the way for USAID to launch its Global Development Alliance
+initiative, although with conditions. USAID must first provide the Appropriations
+Committees with additional details about how the GDA would operate and engage
+in further consultations, if necessary. The conference report further limits to $20
+million, rather than $160 million, amounts that USAID can allocate or reserve for
+GDA programs in FY2002 and requires the agency to notify the Committees prior to
+obligating such funds.
+
+      Family Planning and Abortion Restrictions. The debate over
+international family planning policy and abortion began nearly three decades ago when
+Congress added a provision to the Foreign Assistance Act of 1961 prohibiting the use
+of U.S. appropriated funds for abortion-related activities and coercive family
+planning programs. During the mid-1980s, in what has become known as the
+"Mexico City" policy (because it was first announced at the 1984 Mexico City
+Population Conference), the Reagan, and later the Bush, Administrations restricted
+funds for foreign non-governmental organizations (NGOs) that were involved in
+performing or promoting abortions in countries where they worked, even if such
+activities were undertaken with non-U.S. funds. Several groups, including
+International Planned Parenthood Federation-London (IPPF-London), became
+ineligible for U.S. financial support. In some years, Congress narrowly approved
+measures to overturn this prohibition, but White House vetoes kept the policy in
+place. President Clinton in 1993 reversed the position of his two predecessors,
+allowing the United States to resume funding for all family planning organizations so
+long as no U.S. money was used by those involved in abortion-related work.
+                                       CRS-26
+
+     During the past five years, the House and Senate have taken opposing positions
+on the Mexico City issue that in each case held up enactment of the final Foreign
+Operations spending measure. The House position, sponsored by Representative
+Smith (N.J.) and others, supported reinstatement of the Mexico City policy restricting
+U.S. aid funds to foreign organizations involved in performing abortions or in
+lobbying to change abortion laws or policies in foreign countries. The Senate, on the
+other hand, has rejected in most cases House provisions dealing with Mexico City
+policy, favoring a position that leaves these decisions in the hands of the
+Administration.
+
+      Unable to reach an agreement satisfactory to both sides, Congress adopted
+interim arrangements for FY1996-FY1999 that did not resolve the broad population
+program controversy, but permitted the stalled Foreign Operations measure to move
+forward. The annual "compromise" removed House-added Mexico City restrictions,
+but reduced population assistance to $385 million, and in several years, "metered" the
+availability of the funds at a rate of one-twelfth of the $385 million per month.
+
+      The FY2000 debate, however, concluded far differently than the previous four
+years. As Congress and the White House searched in November 1999 for a final
+FY2000 budget agreement, international family planning and population aid issues
+became one of the last and most contentious aspects of the negotiations.
+Congressional leaders insisted that if the President wanted Congress to approve
+legislation authorizing the payment of nearly $1 billion of U.S. arrears owed to the
+United Nations, the White House must also accept revised Mexico City language
+adding abortion restrictions to U.S. population assistance policy. In order to remove
+the obstacles to U.N. arrears payments, a reluctant President Clinton agreed to the
+abortion restrictions, marking the first time that Mexico City conditions had been
+included in legislation signed by the President. (Enacted in the Foreign Operations
+Act for FY2000, H.R. 3422, incorporated into H.R. 3194, the Consolidated
+Appropriations Act for FY2000, P.L. 106-113). Because the President could waive
+the restrictions up to a certain point, there was no major impact on USAID family
+planning programs in FY2000, other than the loss of $12.5 million in population
+assistance that the legislation required if the White House exercised the waiver
+authority.
+
+     Congress again came to an impasse in 2000 over the international family issue
+and agreed to allow the new President to set policy early in 2001. Under the FY2001
+Foreign Operations measure, none of the $425 million appropriation could be
+obligated until after February 15, 2001.
+
+      Subsequently, on January 22, 2001, two days after taking office, President Bush
+issued a Memorandum to the USAID Administrator rescinding the 1993
+memorandum from President Clinton and directing the Administrator to "reinstate in
+full all of the requirements of the Mexico City Policy in effect on January 19, 1993."
+The President further said that it was his "conviction that taxpayer funds should not
+be used to pay for abortions or advocate or actively promote abortion, either here or
+abroad."8 A separate statement from the President's press secretary stated that
+
+
+8
+    White House. Memorandum for the Administrator of the United States Agency for
+                                                                      (continued...)
+                                         CRS-27
+
+President Bush was "committed to maintaining the $425 million funding level" for
+population assistance "because he knows that one of the best ways to prevent
+abortion is by providing quality voluntary family planning services." The press
+secretary further emphasized that it was the intent that any restrictions "do not limit
+organizations from treating injuries or illnesses caused by legal or illegal abortions, for
+example, post abortion care."9 On February 15, the day on which FY2001 population
+aid funds became available for obligation, USAID issued specific policy language and
+contract clauses to implement the President's directive. The guidelines are nearly
+identical to those used in the 1980s and early 1990s when the Mexico City policy
+applied.10 For FY2002, President Bush seeks $425 million for USAID population
+assistance, the same as appropriated for FY2001.11 The President also proposed a
+U.S. contribution to the U.N. Population Fund (UNFPA) of $25 million, the same as
+for FY2001.
+
+     Critics of the certification requirement oppose it on several grounds. From an
+administrative standpoint, they say it increases USAID costs to manage family
+planning programs because of the additional paperwork and delays implementation
+of projects. (USAID has contracted with John Snow, Inc. to track the certification
+process.) They further believe that family planning organizations may cut back on
+services because they are unsure of the full implications of the restrictions and do not
+want to risk losing eligibility for USAID funding. This, they contend, will lead to
+higher numbers of unwanted pregnancies and possibly more abortions. Opponents
+also believe the new conditions undermine relations between the U.S. Government
+and foreign NGOs and multilateral groups, creating a situation where the United
+States challenges their sovereignty on how to spend their own money and imposes a
+so-called "gag" order on their ability to promote changes to abortion laws and
+regulations in developing nations. The latter, these critics note, would be
+unconstitutional if applied to American groups working in the United States.
+
+     Supporters of the certification requirement argue that even though permanent
+law bans USAID funds from being used to perform or promote abortions, money is
+fungible; that organizations receiving American-taxpayer funding can simply use
+
+
+8
+ (...continued)
+International Development.                 January 22, 2001.                 Found      at
+[http://www.whitehouse.gov/press/releases/20010123-5.html].
+9
+   White House. Restoration of the Mexico City Policy. January 22, 2001. Found at
+[http://www.whitehouse.gov/press/releases/20010123.html].
+10
+   For more background on the Mexico City policy, see CRS Report RL30830, International
+Family Planning: the Mexico City Policy. President Bush re-issued the Mexico City policy
+guidelines on March 28 as an Executive memorandum. Some lawmakers introduced
+legislation (S.J.Res. 9) to reverse the policy and have Congress take an early vote on the
+USAID guidelines under the process allowed by the Congressional Review Act (CRA)
+regarding agency rules and congressional review. The new White House memorandum would
+not fall under the CRA.
+11
+   On May 2, 2001, the House International Relations Committee approved (26-22) an
+amendment to H.R. 1646 (Foreign Relations Authorization, FY2002/2003) that would have
+reversed the President's Mexico City policy. The House, however, voted on May 16 (218-
+210) to delete the amendment from H.R. 1646, thereby supporting the President's position.
+                                       CRS-28
+
+USAID resources for permitted activities while diverting money raised from other
+sources to perform abortions or lobby to change abortion laws and regulations. The
+certification process, they contend, stops the fungibility "loophole."
+
+     Congressional Debate. During subcommittee markup on June 27, the
+House Foreign Operations panel rejected by voice vote an amendment by
+Representative Lowey that would have effectively reversed the President's Mexico
+City policy. The Lowey amendment would have allowed groups to receive USAID
+funding so long as they did not violate U.S. laws or the laws of the countries in which
+they operate. On funding issues, H.R. 2506 assumes the complete $425 million
+Administration request for population aid and $25 million for the U.N. Population
+Fund. The Mexico City issue was not raised during subsequent House consideration.
+
+     The Senate-passed version of H.R. 2506 increased to $450 million family
+planning aid, plus $40 million for the U.N. Population Fund. A Committee
+amendment offered by Senator Leahy and adopted by the Senate panel would have
+effectively overturned the President's "Mexico City" policy. The Senate provision
+blocked the White House from barring foreign NGOs' eligibility for USAID funding
+solely on the basis of health or medical services they offer with their own, non-U.S.
+Government provided funds so long as they did not violate U.S. laws or the laws of
+nations where which they operate. Foreign NGOs would also not face limitations on
+advocacy or lobbying activities using their own, non-U.S. Government funds that
+were more restrictive than those that apply to U.S. NGOs which receive U.S. foreign
+aid grants. This provision was very similar to a measure included by the Senate
+Committee in the FY2001-reported Foreign Operations bill, to S. 367 reported
+favorably on August 1, 2001, by the Senate Foreign Relations Committee, and to the
+Lowey amendment defeated during House subcommittee markup.
+
+      After a month-long stalemate on family planning issues, conferees agreed on
+December 19 to delete Senate language that would have overturned the
+Administration's Mexico City policy, but adopt funding levels for bilateral population
+assistance and UNFPA closer to the Senate-passed higher figures. H.R. 2506, as
+enacted, appropriates $446.5 million for U.S. bilateral family planning/ reproductive
+health programs in FY2002, only slightly less than the $450 million passed by the
+Senate. The legislation allocates the $20.5 million overall increase from FY2001 and
+the FY2002 request in such a way that will add $10.5 million family planning amounts
+to the Child Survival account and $10 million to other economic aid accounts. The
+conference agreement further provides a U.S. contribution to the UNFPA of "up to"
+$34 million, with the conditions that UNFPA not fund abortions and that it segregate
+and not co-mingle U.S. funds with other UNFPA money so they are not used for
+UNFPA programs in China. Conferees dropped the House restriction that would
+have reduced the contribution by whatever UNFPA spent in China.12
+
+
+
+
+12
+   Subsequently, however, the White House placed a hold on UNFPA funds while it reviews
+the organization's program in China and determines whether UNFPA is eligible for U.S.
+support under the terms of the "Kemp-Kasten" amendment. No decision has been made on
+how much, if any, of the $34 million will be released. For more information on UNFPA and
+the "Kemp-Kasten" amendment, see CRS Issue Brief 96026.
+                                        CRS-29
+
+     Debt Reduction -- HIPC. In 1996, international creditors, including the
+World Bank and the IMF, agreed to launch a substantially expanded debt relief
+program for the world's poorest, most seriously debt-strapped nations. The Heavily
+Indebted Poor Country (HIPC) initiative encompasses forty-one countries -- mostly
+in Africa -- that are potentially eligible for HIPC relief, although only those
+determined to have "unsustainable" debt and those that maintain a sound economic
+reform track record would qualify for the more generous HIPC debt relief terms.
+
+      HIPC implementation, however, moved slowly in the late 1990s. Debt relief
+critics, including non-governmental organizations, religious groups, and some donor
+governments, charged that HIPC terms were not deep enough -- that 90% or 100%
+of bilateral debt owed should be canceled, and that six years was a far too long
+qualification period for full HIPC relief. They further believed that the non-
+sustainable debt criteria, based largely on a ratio of a country's debt-to-exports, was
+too high and therefore excluded many countries that were also in need of debt relief.
+A number of organizations further advocated instituting mechanisms that would
+ensure that savings realized by debtor governments would be channeled into spending
+on poverty programs, such as health and education, with decisions on how to spend
+the money made jointly by government and civil society.
+
+     At the Cologne Summit in June 1999, G-7 leaders endorsed most of the HIPC
+reforms proposed by critics, and the World Bank and IMF, institutions that manage
+HIPC debt relief, adopted the enhancements in September. By the end of 2000, 22
+countries had qualified for at least preliminary debt reduction, although for nearly all
+nations, full HIPC relief is not expected for another year or more.
+
+     For these 22 qualifiers, the HIPC initiative, together with existing debt relief
+mechanisms, will result in the cancellation of $53 billion of their total $74 billion debt
+stock (nominal terms). Annual debt service for these 22 nations will fall by about
+one-half, or $800 million each year during the period 2001-2003. Poverty program
+expenditures by the 22 HIPC qualifiers are estimated by the World Bank to increase
+by $1.7 billion during the same time period. There are 19 other HIPC countries, a
+few of which are expected to provisionally qualify this year or next. Four nations are
+considered to have "sustainable" debt without HIPC relief, while one is not seeking
+HIPC terms. Several others remain involved in regional conflicts or have not began
+required economic reform programs and are likely not to qualify in the near term.
+Total creditor costs of the HIPC initiative are estimated at $29.3 billion. Because
+only about 3% of HIPC debt is owed to the United States, the U.S. financial
+commitment is small relative to the cost to all creditors  roughly $800 million.13
+
+      A number of NGOs, however, remain critical of the HIPC initiative, arguing that
+the terms are still not generous enough to ensure that poor countries will have
+sufficient resources to invest in health, education, and other poverty-oriented social
+programs. They contend that the World Bank and IMF should cancel 100% debt
+owed by HIPC in the same way as most bilateral creditors, including the United
+States. These critics point out that the degree of annual debt service relief fluctuates
+widely among qualifying nations, and that for some, the savings will not be
+
+
+13
+  World Bank and IMF. Heavily Indebted Poor Countries (HIPC): Progress Report. April
+19, 2001.
+                                       CRS-30
+
+substantial. Moreover, they claim that the amount of debt service will still exceed
+poverty program expenditures even after HIPC relief. Many further say that the
+qualification criteria should be lowered so that heavily indebted countries like
+Bangladesh, Nigeria, and Haiti will also be able to benefit from the initiative.
+
+      World Bank and IMF officials, as well as several creditor governments counter
+that these institutions do not have the resources to cancel total debt owed by HIPC
+nations. Unless donors, like the United States, would be willing to increase
+contributions, further HIPC expansion of multilateral debt relief would wipe out bank
+reserves. They further express concern that cancellation of all debt owed by these
+countries would create "moral hazard" and argue that some payment obligations
+should remain.
+
+      Congress acted in 1999 and 2000 authorizing and appropriating most, but not
+all funding for U.S. pledged contributions to the HIPC initiative. For FY2000,
+lawmakers provided $110 million for the cancellation of HIPC debt owed to the
+United States, followed by an FY2001 appropriation of $435 million, of which $75
+million will cover the costs of writing-off bilateral debt. The other $360 million is a
+contribution to the HIPC Trust Fund that assists the African Development Bank,
+Inter-American Development Bank and other multilateral creditors cover their costs
+of reducing debt owed by HIPC countries. Because of concerns that HIPC nations
+would accumulate new debt and fall back into a debt trap, Congress stipulated that
+countries receiving benefits from U.S. contributions must first agree not to borrow
+at market rate terms for two years and endorsed consideration of a policy in which the
+World Bank's International Development Association would expand grant assistance
+to these governments.
+
+    For FY2002, the Bush Administration sought $224 million that, together with
+$16 million available from prior year appropriations, would complete the U.S.
+commitment of $600 million for the HIPC Trust Fund.
+
+     Congressional Debate. The House provided full funding  $224 million 
+for U.S. support of the HIPC initiative in FY2002. The House Appropriations
+Committee directed the Treasury Secretary to press other donors to agree to the
+creation of a grant aid facility at the World Bank's International Development
+Association for HIPC beneficiary countries during the first three years following their
+qualification for HIPC debt relief terms. The Senate bill also recommended the full
+$224 million funding level for HIPC.
+
+      In addition, both House and Senate versions of H.R. 2506 provided resources
+for another debt relief initiative  the Tropical Forestry Conservation Act (TFCA).
+The TFCA extends a menu of debt reduction options for countries which are willing
+to expend resources and implement programs protecting their tropical forests. The
+Administration did not request funds for FY2002 TFCA activities, but rather sought
+authority to transfer $13 million from USAID development assistance resources. The
+House bill directed that $25 million from prior year appropriations be used for TFCA
+debt relief, while the Senate measure appropriated $11 million for the TFCA and
+directed the use of $14 million in previously appropriated money, for a total funding
+level of $25 million.
+                                        CRS-31
+
+    As enacted, H.R. 2506 provides $224 million for HIPC, as requested. The
+measure further appropriates $5 million for the TFCA and provides authority for the
+Administration to use $20 million from unobligated debt relief funds in prior
+appropriations.
+
+      Andean Counterdrug Initiative.14 The Bush Administration requested $731
+million in FY2002 economic and counter-narcotics assistance for Colombia and
+regional neighbors as part of the "Andean Counterdrug Initiative." The proposal
+differed from the FY2000 $1 billion Plan Colombia program in two keys ways: 1)
+economic and social program funding was roughly equal to the drug control and
+interdiction components, which had been the key focus of the Plan Colombia effort;
+and 2) more than half of the assistance was directed at neighboring countries that are
+experiencing the spill-over effects from Colombia of illicit drug and insurgency
+activities. Based on preliminary outlines of the initiative, funds (not including possible
+Defense Department resources) would have been allocated as follows:
+
+Colombia: $399 million
+    ! Socio-economic aid: $146.5 million for alternative development,
+      judicial reform, human rights, anti-corruption measures, and support
+      for the peace process.
+    ! Counter-narcotics aid: $252.5 million for aviation and infrastructure
+      support for air assets provided under Plan Colombia, training and
+      equipping security forces, and interdiction and eradication efforts.
+
+Peru: $156 million
+    ! Socio-economic aid: $79 million for alternative development,
+       promotion of democracy, health and education programs.
+    ! Counter-narcotics aid: $78 million for upgrading helicopters and
+       riverine interdiction efforts, eradication, and demand reduction and
+       policy development.
+
+Bolivia: $101 million
+     ! Socio-economic aid: $47 million for alternative development,
+        judicial reform, poverty alleviation, health and environment.
+     ! Counter-narcotics aid: $54 million for ground-based and air
+        interdiction support, eradication efforts, counter-narcotics training,
+        and narcotics awareness and prevention programs.
+
+Ecuador: $39 million
+    ! Socio-economic aid: $20 million for border area development,
+      poverty reduction, judicial reform, and environmental programs.
+    ! Counter-narcotics aid: $19 million for northern border security, law
+      enforcement and border checkpoints, and sea and airport control
+      efforts.
+
+Brazil: $15 million
+
+
+14
+  This section is largely drawn from CRS Report RL31016, Andean Regional Initiative
+(ARI): FY2002 Assistance for Colombia and Neighbors, by K. Larry Storrs and Nina M.
+Serafino.
+                                      CRS-32
+
+     !   Counter-narcotics aid: $15 million for training and equipping border
+         counter-narcotics forces, and for drug awareness and demand
+         reduction programs.
+
+
+Panama: $11 million
+    ! Counter-narcotics aid: $11 million for upgrading interdiction and law
+      enforcement personnel, and for modernizing criminal justice
+      institutions.
+
+Venezuela: $10 million
+    ! Counter-narcotics aid: $10 million for law enforcement and
+      interdiction reforms, efforts to counter money-laundering, and
+      demand reduction.
+
+      Congressional Debate. The House-passed bill reduced the President's
+Andean initiative by $56 million to $675 million. During Committee and floor debate,
+several House Members expressed concern over the lack of success of the earlier Plan
+Colombia program, and argued that too much of the proposed Andean Regional
+Initiative would support military operations rather than development needs. The
+House considered a number of amendments seeking to reduce further funding for the
+initiative or limit U.S. involvement in military operations. Adopted were a Conyers
+amendment that capped U.S. civilian and military personnel involved in the Andean
+Counternarcotics Initiative at 800 and a Hoekstra amendment that would withhold
+$65 million until the Secretary of State reports on the April 20, 2001, Peruvian Air
+Force jet downing of a civilian aircraft in which two Americans were killed. The
+House further decreased ACI funding by $1 million, but rejected other amendments
+that would have cut counternarcotics resources by $38 million and $100 million in
+order to increase health programs.
+
+     The Senate measure cut deeper into the President's ACI request, reducing funds
+to $547 million, $128 million less than the House and $184 million below the
+Administration's proposed budget. Alternative development for the Andean region,
+however, was set at $151 million, as requested. An amendment offered by Senators
+Graham, Hagel, and Dodd that would have restored ACI funding to $731 million, as
+requested, was voted out of order because it did not propose specific reductions to
+offset the additional spending for counternarcotics.
+
+      The enacted bill provides $625 million for the ACI, an amount between those
+passed by the House and Senate earlier. Conferees further authorized the transfer of
+an additional $35 million from the regular International Narcotics account, subject to
+congressional notification. Although the conference committee encouraged the
+Administration to provide Bolivia with $86 million and Ecuador with $33 million in
+alternative development funding. The level for Bolivia is roughly the same amount
+as requested under the ACI and regular economic aid accounts, while the amount for
+Ecuador falls below the $59 million proposed ACI and other economic assistance.
+H.R. 2506, as passed, further limits to 800 the number of U.S. civilian and military
+personnel involved in the ACI and blocks funding for the resumption of flights in
+support of the Peruvian air interdiction program until a system of enhanced safeguards
+is in place.
+                                        CRS-33
+
+           Supplemental Appropriations, FY2001
+      The Bush Administration's FY2001 supplemental appropriations proposal largely
+included additional funds for defense and domestic farm relief, but sought no
+additional resources for Foreign Operations programs. The Senate Appropriations
+Committee, however, added $100 million for a new Global Fund to Fight HIV/AIDS,
+Malaria, and Tuberculosis to its bill (S. 1077) when it reported the measure on June
+21.15 President Bush had proposed $200 million in FY2002 for the Global Fund
+($100 million from Foreign Operations and $100 million from Health and Human
+Services). The request recommended, however, that all of the money would be
+transferred from previously enacted and proposed funding for FY2002. The House
+bill (H.R. 2216) included no funds for the HIV/AIDS and other disease fund.
+
+      Conferees meeting on H.R. 2216 approved the Senate provision and added $100
+million for the Global Fund to the legislation. Congress cleared the measure on July
+20 (P.L. 107-20). This action by Congress accelerated the U.S. contribution to the
+Global Fund, but required USAID to find $20 million in cuts from prior year Child
+Survival and ESF programs. During initial debate on the bill, the Senate defeated an
+amendment by Senator Feingold that would have rescinded nearly $600 million for
+the Navy Osprey aircraft procurement and added $593 million for an additional U.S.
+contribution to the Global Health Fund.
+
+
+
+
+15
+  The Senate action actually would add $90 million in new FY2001 funding for the Global
+Fund since the previously enacted Foreign Operations Appropriations bill had included $10
+million within the Child Survival and Disease (CSD) Program account for such a fund. S.
+1077 reduces the CSD account by $10 million.
+                                    CRS-34
+
+                      For Additional Reading
+General/Overview
+
+CRS Report 98-916. Foreign Aid: An Introductory Overview of U.S. Programs and
+    Policy.
+
+CRS Report RS20855. Foreign Policy Budget for FY2002.
+
+CRS Report RL30515. International Affairs Budget Trends, FY1980-FY2000.
+
+CRS Report 97-62. The Marshall Plan: Design, Accomplishments, and Relevance
+   to the Present.
+
+
+
+Foreign Operations Programs
+
+CRS Report RS20329. African Development Bank and Fund.
+
+CRS Issue Brief IB10050. AIDS in Africa.
+
+CRS Report RL30214. Debt Reduction: Initiatives for the Most Heavily Indebted
+   Poor Countries.
+
+CRS Issue Brief IB88093. Drug Control: International Policy.
+
+CRS Report 98-568. Export-Import Bank: Background and Legislative Issues.
+
+CRS Report RL30793. Health in Developing Countries: The U.S. Response.
+
+CRS Report RS20622. International Disasters: How the United States Responds.
+
+CRS Report RL30830. International Family Planning: The "Mexico City" Policy.
+
+CRS Report RL30932. Microenterprise and U.S. Foreign Assistance.
+
+CRS Issue Brief IB96008. Multilateral Development Banks: Issues for the 107th
+   Congress.
+
+CRS Issue Brief IB89150. Refugee Assistance in the Foreign Aid Bill: Problems and
+    Prospects.
+
+CRS Issue Brief IB96026. U.S. International Population Assistance: Issues for
+   Congress.
+
+Foreign Operations Country/Regional Issues
+
+CRS Issue Brief IB95052. Africa: U.S. Foreign Assistance Issues.
+                                    CRS-35
+
+CRS Report RL31016. Andean Regional Initiative (ARI): FY2002 Assistance for
+   Colombia and Neighbors.
+
+CRS Report RL30831. Balkan Conflicts: U.S. Humanitarian Assistance and Issues
+    for Congress.
+
+CRS Report RL30541. Colombia: U.S. Assistance and Current Legislation.
+
+CRS Report RS20737.       The Federal Republic of Yugoslavia: U.S. Economic
+   Assistance.
+
+CRS Issue Brief IB95077. The Former Soviet Union and U.S. Foreign Assistance.
+
+CRS Issue Brief IB85066. Israel: U.S. Foreign Assistance.
+
+CRS Report RL30453. Kosovo: Reconstruction and Development Assistance.
+
+CRS Report RS20903. Middle East: U.S. foreign assistance, FY2000, FY2001, and
+    FY2002 request.
+
+CRS Report RS20895. Palestinians: U.S. Assistance.
+
+
+               Selected World Wide Web Sites
+African Development Bank
+[http://www.afdb.org/]
+
+African Development Foundation
+[http://www.adf.gov/]
+
+Asian Development Bank
+[http://www.asiandevbank.org/]
+
+CRS Current Legislative Issues: Foreign Affairs
+[http://www.crs.gov/products/browse/is-foreignaffairs.shtml]
+
+Export-Import Bank
+[http://www.exim.gov/]
+
+Inter-American Development Bank
+[http://www.iadb.org/]
+
+Inter-American Foundation
+[http://www.iaf.gov/iaf1.htm]
+
+International Monetary Fund
+[http://www.imf.org/]
+                                   CRS-36
+
+Overseas Private Investment Corporation
+[http://www.opic.gov/]
+
+Peace Corps
+[http://www.peacecorps.gov/]
+
+Trade and Development Agency
+[http://www.tda.gov/]
+
+United Nations Children's Fund (UNICEF)
+[http://www.unicef.org/]
+
+United Nations Development Program (UNDP)
+[http://www.undp.org/]
+
+United National Population Fund (UNFPA)
+[http://www.unfpa.org/]
+
+U.S. Agency for International Development
+[http://www.info.usaid.gov/]
+
+U.S. Department of State
+[http://www.state.gov/]
+
+World Bank
+[http://www.worldbank.org/]
+
+World Bank HIPC website
+[http://www.worldbank.org/hipc/]
+                                               CRS-37
+
+Appendix -- Detailed Foreign Operations Accounts
+
+  Table 6. Foreign Operations Accounts Discretionary Budget
+                          Authority
+                                         (millions of dollars)
+
+
+                                          FY2001 FY2002 House Senate Enacted
+              Program
+                                          Enacteda Request FY2002 FY2002 FY2002
+                                                      b
+
+
+Title I - Export and Investment Assistance:
+Export-Import Bank                   910.0               687.3        787.3     780.3     779.3
+Overseas Private Investment Corp             (221.0)    (251.4)      (251.4)   (251.4)    (251.4)
+Trade & Development Agency                     49.9       50.0         50.0      50.0      50.0
+Total, Title I - Export Aid                   738.9      485.9        585.9     578.9     577.9
+Title II - Bilateral Economic:
+Development Assistance:c
+Child Survival/Health/UNICEFc               1,315.9    1,326.0       1,425.0   1,510.5   1,433.5
+                             b
+Child Survival rescission                     (10.0)     (20.0)         0.0       0.0        0.0
+                         c
+Development Asst Fund                       1,019.1    1,062.0       1,098.0   1,245.0   1,178.0
+  Subtotal                                  2,325.0    2,368.0       2,523.0   2,755.5   2,611.5
+Of which:
+   UNICEF                                   [110.0]     [110.0] [120.0]        [120.0]   [120.0]
+   Population aidd                          [425.0]     [425.0] [425.0]        [450.0]   [446.5]
+   HIV/AIDSd                                [300.0]     [429.0] [487.0]        [485.0]   [475.0]
+International Disaster Aid                   164.3       200.0   201.0          245.0     235.5
+Southern Africa flood supp.                   135.0                                       
+Transition Initiatives                         49.9       50.0         40.0      52.5      50.0
+Development Credit Programs                     7.4        7.5          7.5       7.5        7.5
+  Subtotal, Development Aid                 2,681.6    2,625.5       2,771.5   3,060.5   2,904.5
+USAID Operating Expenses                      531.8      549.0        549.0     549.0     549.0
+USAID Inspector General                        26.9       32.0         30.0      32.0      31.5
+Economic Support Fund (ESF)b                2,290.0    2,254.0       2,199.0   2,239.5   2,199.0
+                b
+ESF rescission                                (10.0)      (5.0)         0.0       0.0        0.0
+                                                                 e
+International Fund for Ireland                 24.9      [19.6]        25.0      []       25.0
+            b
+East Europe                                   598.5      605.0        600.0     615.0     621.0
+Kosovo/Balkans supplemental                    75.8                                      
+Former Soviet Union (IS/FSU)                  808.2      808.0        768.0     795.5     784.0
+                                 c
+Inter-American Foundation                      12.0       12.1         12.0      13.1      13.1
+                                     c
+African Development Foundation                 16.0       16.0         16.0      16.5      16.5
+Treasury Dept. technical asst                   6.0        6.0          6.0       6.0        6.5
+                                             CRS-38
+
+
+                                         FY2001 FY2002 House Senate Enacted
+               Program
+                                         Enacteda Request FY2002 FY2002 FY2002
+                                                     b
+
+
+  Debt reduction                            447.0       224.0      224.0      235.0       229.0
+  US Community Program                                    0.5        0.0        0.0         0.0
+  Peace Corps                               264.4       275.0      275.0      275.0       275.0
+  International Narcotics                   324.3       217.0      217.0      217.0       217.0
+  Intl NarcoticsAndean Initiative                     731.0      675.0      547.0       625.0
+  Migration & refugee asst                  698.5       715.0      715.0      735.0       705.0
+  Emerg. Refugee Fund (ERMA)                 15.0         15.0       15.0       15.0        15.0
+  Non-Proliferation/anti-terrorism          310.9       332.0      311.0      318.5       313.5
+  Total Title II-Bilat Economic           9,121.8     9,412.1    9,408.5    9,669.6     9,529.6
+  Title III - Military Assistance:
+  Intl Military Education &Training          57.7         65.0       65.0       75.0        70.0
+  Foreign Mil Financing (FMF)             3,568.1     3,674.0    3,627.0    3,674.0     3,650.0
+                             b
+  Peacekeeping Operations                   126.7       135.0      135.0      140.0       135.0
+  Total, Title III-Military Aid           3,752.5     3,874.0    3,827.0    3,889.0     3,855.0
+  Title IV - Multilateral Economic Aid:
+  World Bank - Intl Develop. Assn           773.3       803.4      803.4      775.0       792.4
+  World Bank-Environment Facility           107.8       107.5        82.5     109.5       100.5
+  World Bank-Mult Invst Guaranty             10.0         10.0        0.0        0.0         5.0
+  Inter-Amer. Development Bank               34.9         25.0       10.0       20.0        18.0
+  Asian Development Bank                     71.8       103.0        93.0     103.0         98.0
+  African Development Fund                   99.8       100.0      100.0      100.0       100.0
+  African Development Bank                     6.1         5.1        5.1        5.1         5.1
+  European Bank for R & D                    35.7         35.8       35.8       35.8        35.8
+  Intl Fund for Ag Development                 5.0        20.0       20.0       20.0        20.0
+  Intl Organizations & Programs             185.6       186.0      196.0      218.0       208.5
+  Total, Title IV - Multilateral          1,330.0     1,395.8    1,345.8    1,386.4     1,383.3
+  TOTAL, Foreign Operations              14,943.2    15,167.8 15,167.2 15,523.9 15,345.8
+
+Source: House and Senate Appropriations Committee and CRS calculations.
+
+a. Each account for FY2001 has been adjusted in reflect the across-the-board 0.22% rescission enacted
+     in the Consolidated Appropriations Act, FY2001 (H.R. 4577), signed into law on Dec. 21, 2000.
+     The total amount reduced for Foreign Operations was $33 million.
+
+b. FY2002 request amended on June 11, 2001, to add an additional $200 million for HIV/AIDS,
+    Malaria, and TB Global Fund. Of the total, $100 million was derived by transfer from the
+    Department of Health and Human Services and does not appear in the Foreign Operations budget.
+    The other $100 million came from reductions to the existing FY2002 Foreign Operations request:
+    ESF(-$35 million); Peacekeeping (-$15 million); Child Survival (-$20 million that had been
+                                              CRS-39
+
+     originally allocated for the Global Fund); East European aid (-$5 million). The amendment further
+     made available $25 million from unobligated, prior year ESF and Child Survival appropriations.
+     Congress modified the President's request by approving $100 million for the Global Fund under
+     Foreign Operations funding in the FY2001 Supplemental Appropriations (P.L. 107-20; H.R. 2216).
+     P.L. 107-20 further rescinded $20 million in prior year Child Survival and ESF appropriations to
+     partially offset the new Global Fund spending. For FY2002, the House, Senate, and enacted levels
+     included $100 million for the Global Fund drawn from the Child Survival and other bill accounts.
+
+c. For FY2002, Congress proposed a modified structure for the Child Survival/Health (CSH) and
+     Development aid (DA) accounts. Basic education, which had previously been included in the CSH
+     account, is transferred to the DA account. Family planning, previously enacted in the DA account,
+     is moved to the CSH account. Further, funding for the Inter-American and African Development
+     Foundations was provided in separate accounts (listed below) and not in the DA account as in
+     recent years. Amounts for FY2001 enacted and for FY2002 requested have been adjusted to be
+     consistent with the congressional structure.
+
+d. Population and HIV/AIDS aid funding include small amounts from other Foreign Operations
+    accounts. The figures here represent totals "across all accounts," not just those within the
+    Development Aid subtotal.
+
+e. The Administration request includes the Ireland Fund as part of the Economic Support Fund.
+
+------------------------------------------------------------------------------
+For other versions of this document, see http://wikileaks.org/wiki/CRS-RL31011

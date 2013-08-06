@@ -1,0 +1,59 @@
+$LOAD_PATH.unshift(File.expand_path('lib'))
+
+require 'corpus'
+
+def corpus_directory
+  #'work/samples'
+  'texts'
+end
+
+desc "Score my boards"
+task :score do
+  corpus = Corpus::Main.new(corpus_directory)
+
+  Corpus::Layout::LAYOUTS.each_with_index do |(name, layout), i|
+    layout = Corpus::Layout.new(layout, corpus)
+    puts("%2d) %-30s %10d" % [i+1, name, layout.score])
+  end
+
+  name   = "Random Layout"
+  layout = Corpus::Layout.random(corpus)
+  puts("%2d) %-30s %10d" % [0, name, layout.score])
+end
+
+desc "Search for best layout."
+task :search do
+  corpus = Corpus::Main.new(corpus_directory)
+  corpus.search
+end
+
+desc "Evolve best layout."
+task :evolve do
+  corpus = Corpus::Main.new(corpus_directory)
+  corpus.evolve
+end
+
+#desc "Simple letter maximum board"
+#task :max do
+#  corpus = Corpus::Main.new(corpus_directory)
+#
+#  layout = Corpus::Layout.maximum
+#  puts layout
+#  puts "Score: %s" % [layout.score(corpus)]
+#end
+
+desc "Display letter frequencies"
+task :letters do
+  corpus = Corpus::Main.new(corpus_directory)
+
+  corpus.letters.each do |letter, freq|
+    puts "%2s %2.10f" % [letter, freq]
+  end
+end
+
+desc "Generate word ranks list"
+task :words do
+  corpus = Corpus::Main.new(corpus_directory)
+  corpus.output_words
+end
+
