@@ -1,9 +1,15 @@
+/******************************************************************************\
+ * Corpus - Kayboard Assesment API
+ * (c) 2013 Tab Computing
+ *     All Rights Reserved
+\******************************************************************************/
+
 package main
 
 import (
 	  "fmt"
     "os"
-	  "corpus/layout"
+	  "corpus/keyboard"
 )
 
 func main() {
@@ -16,19 +22,19 @@ func main() {
     switch cmd {
     case "score":
       fmt.Println("Scoring...")
-      for n, k := range layout.PredefinedKeysets() {
+      for n, k := range keyboard.PredefinedKeyboards() {
         fmt.Printf("%-25s\n", n)
         k.Display()
         fmt.Println("")
       }
     default:  // evolve
-        fmt.Println("Evolving...")
+      fmt.Println("Evolving...")
 
-        pop := layout.Population(true)
-        gen := layout.Evolve(pop, 1000)
+      pop := keyboard.Population()
+      gen := keyboard.Evolve(pop, 1000)
 
-        gen[0].Display()
-        fmt.Printf("%d \n", layout.Score(gen[0]))
+      gen[0].Display()
+      fmt.Printf("%d \n", keyboard.Score(gen[0]))
     }
 }
 

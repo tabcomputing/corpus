@@ -1,7 +1,10 @@
-/* Corpus - Layout array helpers
+/******************************************************************************\
+ * Corpus - Kayboard Assesment API
  * (c) 2013 Tab Computing
- */
-package layout
+ *     All Rights Reserved
+\******************************************************************************/
+
+package keyboard
 
 import (
     "math/rand"

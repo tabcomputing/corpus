@@ -1,32 +1,74 @@
-/* Corpus - Layout API
+/******************************************************************************\
+ * Corpus - Kayboard Assesment API
  * (c) 2013 Tab Computing
- */
-package layout
+ *     All Rights Reserved
+\******************************************************************************/
+
+package keyboard
 
 import (
   "fmt"
-  "os"
-  "bufio"
-  "strings"
-  "strconv"
-  "math/rand"
+  "sort"
 )
 
-// Debug mode.
-var debug bool = true
+//
+// Keyboard structure consists of a layout and a score.
+//
+type Keyboard struct {
+  Layout []string
+  Score  int
+}
 
+//
+// Score a keyboard.
+//
+func Score(keyboard Keyboard) int {
+  return score_layout(keyboard.Layout)
+}
+
+//
 // Alphabet.
+//
 var alphabet = []string{ 
   "a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m",
   "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z"}
 
-// Numbers.
-var numbers = []string{"0", "1", "2", "3", "4", "5", "6", "7", "8", "9"}
+//
+// Numbers
+//
+var numbers = []string{"1", "2", "3", "4", "5", "6", "7", "8", "9", "0"}
 
+//
 // Common letter pairs.
+//
 var pairs = []string{"wh", "ch", "ph", "th", "gh", "sh", "dj", "ng", "er", "an"}
 
+//
+// Letters with bi-lateral symmetries
+//
+var symmetries = [][]string{
+  {"t","d"},{"p","b"},{"k","g"},{"f","v"},{"s","z"},{"c","x"},{"sh","j"},{"ch","dj"},
+  {"m","w"},{"n","r"},{"l","r"},{"n","y"},{"ng","y"},
+  {"i","e"},{"o","a"},
+  {"p","f"},{"b","v"},{"t","sh"},{"s","th"},{"d","j"},{"k","q"},{"g","gh"},{"g","x"},
+  {"s","c"},{"z","x"}}
+
+//
+//
+//
+var symmetric_positions = [][]int{
+  { 0, 8},{ 1, 7},{ 2, 6},{ 3, 5},
+  { 9,17},{10,16},{11,15},{12,14},
+  {18,26},{19,25},{20,24},{21,23},
+  {27,35},{28,34},{29,33},{30,32},
+  {10,21},{16,23},{12,19},{14,25}}
+
+// { 0,27},{1, 28},{2, 29},{ 3,30},{ 4,31},{ 5,32},{ 6,33},{ 7,34},{ 8,35},
+// { 9,18},{10,19},{11,20},{12,21},{13,22},{14,23},{15,24},{16,25},{17,26}
+
+//
 // Ergonmic (very ergonomic but maybe too weird)
+//
 var layout_numeric_point = []string{
    "4", "x", "v",  "j", "5", "r",  "k", "g", "0",
    "z", "p", "u",  "l", "y", "b",  "c", "f", "6",
@@ -112,45 +154,37 @@ var layout_advanced_plus = []string{
   "d", "t", "n",  "a", "u", "e",  "l", "s", "z" }
 
 //
-// Keyset structure consists of a layout and a score.
+// Make a Keyboard given a layout.
 //
-type Keyset struct {
-  layout []string
-  Score  int
+func makeKeyboard(layout []string) Keyboard {
+  return Keyboard{layout, score_layout(layout)}
 }
 
 //
-// Make a Keyset given a layout.
+// Display a Keyboard.
 //
-func makeKeyset(layout []string) Keyset {
-  return Keyset{layout, score_layout(layout)}
-}
-
-//
-// Display a Keyset.
-//
-func (keyset Keyset) Display() {
-  lay := keyset.layout
+func (keyboard Keyboard) Display() {
+  lay := keyboard.Layout
   fmt.Printf("%2s %2s %2s | %2s %2s %2s | %2s %2s %2s\n", iface(lay[0:9])...)
   fmt.Printf("%2s %2s %2s | %2s %2s %2s | %2s %2s %2s\n", iface(lay[9:18])...)
   fmt.Println("------------------------------" )
   fmt.Printf("%2s %2s %2s | %2s %2s %2s | %2s %2s %2s\n", iface(lay[18:27])...)
   fmt.Printf("%2s %2s %2s | %2s %2s %2s | %2s %2s %2s\n", iface(lay[27:36])...)
-  fmt.Printf("(Score: %d)\n\n", keyset.Score)
+  fmt.Printf("(Score: %d)\n\n", keyboard.Score)
 }
 
 //
-// Array of predefined keysets.
+// Array of predefined keyboards.
 //
-func PredefinedKeysets() map[string]Keyset {
+func PredefinedKeyboards() map[string]Keyboard {
   layouts := PredefinedLayouts()
-  keysets := make(map[string]Keyset, len(layouts))
+  keyboards := make(map[string]Keyboard, len(layouts))
 
   for name, layout := range layouts {
-    keysets[name] = makeKeyset(layout)
+    keyboards[name] = makeKeyboard(layout)
   }
 
-  return keysets
+  return keyboards
 }
 
 //
@@ -174,125 +208,18 @@ func PredefinedLayouts() map[string][]string {
 }
 
 //
-// Generate a population.
 //
-func Population(numeric bool) []Keyset {
-  var pop []Keyset
-
-  if numeric {
-    top_numbers = true
-    pop = []Keyset{random_keyset(true), makeKeyset(layout_numeric_compromise)}
+//
+func random_keyboard() Keyboard {
+  if settings.Numbered {
+    return makeKeyboard(append(numbers, randomize(alphabet)...))
   } else {
-    top_numbers = false
-    pop = []Keyset{random_keyset(false), makeKeyset(layout_advanced_acoustic)}
-  }
-  return pop
-}
-
-//
-//
-//
-func random_keyset(numeric bool) Keyset {
-  if numeric {
-    return makeKeyset(append(numbers, randomize(alphabet)...))
-  } else {
-    return makeKeyset(append(pairs, randomize(alphabet)...))
+    return makeKeyboard(append(pairs, randomize(alphabet)...))
   }
 }
 
 //
-//
-//
-var words_cache map[string]float64
-
-//
-// Top 1000 words with ranks.
-//
-func words() map[string]float64 {
-    // if empty ?
-    if words_cache == nil {
-        words_cache = load_words(1000)
-    }
-    return words_cache
-}
-
-//
-// Load words with ranks from words.dat cache file.
-//
-func load_words(max int) map[string]float64 {
-  words := make(map[string]float64)
-
-  var entry []string
-  var rank float64 = 0.0
-
-  file, err := os.Open("data/words.dat")
-  if err != nil {
-    fmt.Fprintln(os.Stderr, "file not found:", err)
-  }
-
-  scanner := bufio.NewScanner(file)
-  for scanner.Scan() {
-     entry = strings.Fields(scanner.Text())
-     rank, _ = strconv.ParseFloat(entry[0], 32)
-     words[entry[1]] = float64(rank)
-  }
-  if err := scanner.Err(); err != nil {
-    fmt.Fprintln(os.Stderr, "reading standard input:", err)
-  }
-
-  return words
-}
-
-//
-//
-//
-var letters_cache map[string]float64
-
-//
-// Letters and their ranks.
-//
-func letters() map[string]float64 {
-  // if empty ?
-  if letters_cache == nil {
-    letters_cache = load_letters()
-  }
-  return letters_cache
-}
-
-//
-// Load letters with ranks from letters.dat cache file.
-//
-func load_letters() map[string]float64 {
-  letters := make(map[string]float64)
-
-  var entry []string
-  var rank float64 = 0.0
-
-  file, err := os.Open("data/letters.dat")
-  if err != nil {
-    fmt.Fprintln(os.Stderr, "file not found:", err)
-  }
-
-  scanner := bufio.NewScanner(file)
-  for scanner.Scan() {
-     entry = strings.Fields(scanner.Text())
-     rank, _ = strconv.ParseFloat(entry[0], 32)
-     letters[entry[1]] = float64(rank)
-  }
-  if err := scanner.Err(); err != nil {
-    fmt.Fprintln(os.Stderr, "reading standard input:", err)
-  }
-
-  return letters
-}
-
-//
-// A layout is top-numbered if the top row is always numbers.
-//
-var top_numbers bool = true
-
-//
-//
+// Relative scores for difference priciples of keyboard design.
 //
 var scores = map[string]float64{
   "base":           0.0,
@@ -301,16 +228,11 @@ var scores = map[string]float64{
   "nonpoint":     -50.0,
   "pinky":        -25.0,
   "horizontal":    50.0,
-  "vertical":    -150.0,
-  "double_tap":  -100.0,
-  "concomitant":   50.0 }
-
-//
-// Score a keyset.
-//
-func Score(keyset Keyset) int {
-  return score_layout(keyset.layout)
-}
+  "vertical":    -100.0,
+  "double_tap":   -75.0,
+  "distant":      -25.0,
+  "concomitant":   50.0,
+  "symmetry":      10.0 }
 
 //
 // Score a layout's letters.
@@ -319,6 +241,9 @@ func score_layout(layout []string) int {
   var sum float64 = 0.0
   for word, rank := range words() {
     sum = sum + score_word(layout, word, rank)
+  }
+  if settings.Symmetric {
+    sum = sum + (symmetry(layout) * scores["symmetry"])
   }
   return int(sum)
 }
@@ -359,6 +284,7 @@ func score_letter(layout []string, letter, last string) float64 {
   if is_horizontal(layout, letter) { score = score + scores["horizontal"] } 
   if is_vertical(layout, letter)   { score = score + scores["vertical"]   }
   if is_doubletap(layout, letter)  { score = score + scores["double_tap"] }
+  if is_distant(layout, letter)    { score = score + scores["distant"] }
 
   if last != "" && is_concomitant(layout, last, letter) {
     score = score + scores["concomitant"]
@@ -474,6 +400,15 @@ func is_doubletap(layout []string, letter string) bool {
 }
 
 //
+// Letters that require distant keystrokes are not so good.
+//
+var indexes_distant = []int{2, 6, 11, 15, 20, 24, 29, 33}
+func is_distant(layout []string, letter string) bool {
+  i := index(layout, letter)
+  return member_int(indexes_distant, i)
+}
+
+//
 // Too letters are concomitant if the first letter ends on the key
 // that the second letter begins. This is a good thing.
 //
@@ -494,6 +429,22 @@ func is_concomitant(layout []string, letter1, letter2 string) bool {
 }
 
 //
+// Counts the number of symmetries in a layout.
+//
+func symmetry(layout []string) float64 {
+  cnt := 0.0
+  for _, p := range symmetric_positions {
+    for _, q := range symmetries {
+      if (layout[p[0]] == q[0] && layout[p[1]] == q[1]) ||
+         (layout[p[0]] == q[1] && layout[p[1]] == q[0]) {
+        cnt++
+      }
+    } 
+  }
+  return cnt
+}
+
+//
 //
 //
 func member_int(list []int, a int) bool {
@@ -506,49 +457,17 @@ func member_int(list []int, a int) bool {
 }
 
 //
-// Must be initialized with an Array of "chromosomes". A chomosome object
-// must implement the methods `fitness`, `recombine` and `mutate`.
-//
-// pop - initial population
-//
-func Evolve(pop []Keyset, max int) []Keyset {
-  for i := 0; i < max; i++ {
-    pop = append(pop, breed(pop)...)
-    pop = natural_selection(pop, 32)
-    pop[0].Display()
-  }
-  return pop
-}
-
-/*
-//
-// Concat two populations into one.
-//
-func concat_populations(p1, p2 []Keyset) []Keyset {
-  pop := make([]Keyset, len(p1) + len(p2))
-  copy(pop, p1)
-  copy(pop[len(p1):], p2)
-  return pop
-}
-*/
-
-//
-// Selects population to survive and recombine.
-//
-func natural_selection(pop []Keyset, max int) []Keyset {
-  if len(pop) > max {
-    return sort_population(pop)[0:max]
-  } else {
-    return sort_population(pop)
-  }
-}
-
-//
 // Sort population, highest fitness first. 
 //
-// TODO: This can be faster!
+func sort_keyboards(pop []Keyboard) []Keyboard {
+  sort.Sort(ByScore(pop))
+  return pop
+}
+
 //
-func sort_population(pop []Keyset) []Keyset {
+//
+//
+func sort_keyboards_slow(pop []Keyboard) []Keyboard {
   for i := 0; i < len(pop) - 1; i++ {
     for j := 0; j < len(pop) - 1; j++ {
       if pop[j].Score < pop[j+1].Score {
@@ -563,127 +482,16 @@ func sort_population(pop []Keyset) []Keyset {
 }
 
 //
-// Sex!
+// Sorting of Keyboards by score.
 //
-func breed(pop []Keyset) []Keyset {
-  if debug { fmt.Printf("Breeding %d layouts\n", len(pop)) }
-
-  var chrom []string
-  var child Keyset
-  var gen []Keyset
-
-  rp := randomize_population(pop)
-
-  for i := 1; i < len(rp); i++ {
-    chrom = cross(rp[i-1].layout, rp[i].layout)
-    child = makeKeyset(mutate(chrom))
-    gen = append(gen,child)
-  }
-
-  return gen
+type ByScore []Keyboard
+func (s ByScore) Len() int {
+  return len(s)
 }
-
-//
-// Crossbreed two layouts.
-//
-func cross(mother []string, father []string) []string {
-  child := make([]string, len(mother))
-  copy(child, mother)
-
-  offset := 0; if top_numbers { offset = 9 }
-
-  s := rand.Intn(len(child) - offset) + offset
-  n := rand.Intn(len(child) - offset) + offset
-
-  if (s < 9 || n < 9) {
-    fmt.Printf("How did it get under 9? %d %d", s, n)
-  }
-
-  if s > n { s, n = n, s }
-
-  var c string
-  var x int
-
-  for i := s; i <= n; i++ {
-    c = father[i]
-    x = index(child, c)
-
-    if x > -1 {
-      child[x] = child[i]
-      child[i] = c
-    }
-  }
-
-  dups := duplicates(child)
-  if len(dups) > 0 {
-    fmt.Printf("ERROR: duplicates from sex!\n%s\n%s\n%s\n%s", dups, mother, father, child)
-  }
-
-  return child
+func (s ByScore) Swap(i, j int) {
+  s[i], s[j] = s[j], s[i]
 }
-
-//
-// Evolutionary mutation, by swapping two positions.
-//
-func mutate(layout []string) []string {
-  offset := 0; if top_numbers { offset = 9 }
-
-  // 50% of the time no mutation occurs
-  if (rand.Intn(2) == 0) { return layout }
-
-  i1 := rand.Intn(len(layout) - offset) + offset
-  i2 := rand.Intn(len(layout) - offset) + offset
-
-  if (i1 < 9 || i2 < 9) {
-    fmt.Printf("How did it get under 9? %d %d", i1, i2)
-  }
-
-  mutant := swap(layout, i1, i2)
-  dups   := duplicates(mutant)
-
-  if len(dups) > 0 {
-    fmt.Printf("Duplicate letter from mutation!\n%s", mutant)
-  }
-
-  return mutant
+func (s ByScore) Less(i, j int) bool {
+  return s[i].Score > s[j].Score
 }
-
-//
-// Swap populations.
-//
-func swap_population(a []Keyset, i1 int, i2 int) []Keyset {
-  n := make([]Keyset, len(a))
-  copy(n, a)
-  n[i1], n[i2] = a[i2], a[i1]
-  return n
-}
-
-//
-// Randomize the order of a population.
-//
-func randomize_population(pop []Keyset) []Keyset {
-  for i := range pop {
-      j := rand.Intn(i + 1)
-      pop[i], pop[j] = pop[j], pop[i]
-  }
-  return pop
-}
-
-/*
-  // Returns a GeneticAlgorithm object with the generations
-  // loaded from given files and with properties prop.
-  // Files must contain the chromosomes in YAML format.
-  def self.populate_from_file(filename, prop = {})
-    GeneticAlgorithm.new(YAML.load(File.open(filename, 'r')), prop)
-  end
-
-  // Saves into filename and in yaml format the generation that matchs with given
-  // generation number ( by default from last generation ).
-  def save_population(filename)
-    f = File.new(filename, "w")
-    f.write(@population.to_yaml)
-    f.close
-  end
-
-*/
 
