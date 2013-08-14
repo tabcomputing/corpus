@@ -96,3 +96,54 @@ func load_letters() map[string]float64 {
   return letters
 }
 
+//
+// Cache for saved layouts.
+//
+var saved_cache [][]string
+
+//
+//
+//
+func saved_layouts() [][]string {
+  if saved_cache == nil {
+    saved_cache = load_layouts()
+  }
+  return saved_cache
+}
+
+//
+//
+//
+func load_layouts() [][]string {
+  layouts := [][]string{}
+  layout  := []string{}
+  counter := 0
+
+  var entry []string
+
+  file, err := os.Open("data/saves.dat") // "data/saves.dat"
+  if err != nil {
+    fmt.Fprintln(os.Stderr, "file not found:", err)
+  }
+
+  scanner := bufio.NewScanner(file)
+  for scanner.Scan() {
+     entry = strings.Fields(scanner.Text())
+     if len(entry) != 0 && entry[0] != "#" {
+       if counter == 3 {
+         layout  = append(layout, entry...)
+         layouts = append(layouts, layout)
+         layout  = []string{}
+         counter = 0
+       } else {
+         layout = append(layout, entry...)
+         counter = counter + 1
+       }
+     }
+  }
+  if err := scanner.Err(); err != nil {
+    fmt.Fprintln(os.Stderr, "reading standard input:", err)
+  }
+
+  return layouts
+}

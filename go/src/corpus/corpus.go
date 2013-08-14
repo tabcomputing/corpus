@@ -21,16 +21,15 @@ func main() {
 
     switch cmd {
     case "score":
-      fmt.Println("Scoring...")
-      for n, k := range keyboard.PredefinedKeyboards() {
-        fmt.Printf("%-25s\n", n)
+      fmt.Println("Scoring...\n")
+      for i, k := range keyboard.SavedKeyboards() {
+        fmt.Printf("%d)\n", i)
         k.Display()
-        fmt.Println("")
       }
     default:  // evolve
-      fmt.Println("Evolving...")
+      fmt.Println("Evolving...\n")
 
-      pop := keyboard.Population()
+      pop := keyboard.Population(8)
       gen := keyboard.Evolve(pop, 1000)
 
       gen[0].Display()

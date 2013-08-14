@@ -1,0 +1,42 @@
+1  2  3    4  5  6    7  8  9
+0  x  k    y  q  l    g  z  j
+v  n  f    c  m  s    p  r  b
+h  e  o    t  u  d    a  i  w
+
+1  2  3    4  5  6    7  8  9
+q  v  p    r  j  l    f  b  0
+z  n  s    k  d  g    c  y  x
+m  t  e    a  u  o    i  h  w 
+
+1  2  3    4  5  6    7  8  9
+0  b  m    y  x  l    w  v  z
+k  n  d    p  g  f    j  r  q
+s  e  h    o  u  a    t  i  c
+
+1  2  3    4  5  6    7  8  9
+u  b  p    r  l  w    f  v  0
+g  h  n    k  j  q    m  y  x
+d  t  e    a  c  o    i  s  z 
+
+1  2  3    4  5  6    7  8  9
+g  k  w    c  r  j    y  q  x
+b  p  m    h  l  0    n  f  v
+d  t  e    a  u  i    o  s  z 
+
+1  2  3    4  5  6    7  8  9
+0  x  k    y  q  l    g  z  v
+b  n  w    c  u  s    m  r  p
+d  o  h    e  f  i    t  a  j
+
+# phonetic
+1  2  3    4  5  6    7  8  9
+0  u  y    n  r  l    m  h  w
+g  e  x    d  j  z    b  i  v
+k  a  q    t  c  s    p  o  f
+
+# ergonomic (my original hand made version)
+1  2  3    4  5  6    7  8  9
+z  g  k    n  v  m    w  r  0
+x  t  s    b  j  d    f  c  q
+p  a  e    o  u  h    i  l  y 
+

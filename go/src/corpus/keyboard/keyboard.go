@@ -46,11 +46,14 @@ var pairs = []string{"wh", "ch", "ph", "th", "gh", "sh", "dj", "ng", "er", "an"}
 //
 // Letters with bi-lateral symmetries
 //
+// Other possibles:
+// * {"g","x"} - "x" acts as a stand-in for voiced frictive gutteral
+//
 var symmetries = [][]string{
   {"t","d"},{"p","b"},{"k","g"},{"f","v"},{"s","z"},{"c","x"},{"sh","j"},{"ch","dj"},
   {"m","w"},{"n","r"},{"l","r"},{"n","y"},{"ng","y"},
   {"i","e"},{"o","a"},
-  {"p","f"},{"b","v"},{"t","sh"},{"s","th"},{"d","j"},{"k","q"},{"g","gh"},{"g","x"},
+  {"p","f"},{"b","v"},{"t","sh"},{"s","th"},{"d","j"},{"k","q"},{"g","gh"},
   {"s","c"},{"z","x"}}
 
 //
@@ -63,95 +66,11 @@ var symmetric_positions = [][]int{
   {27,35},{28,34},{29,33},{30,32},
   {10,21},{16,23},{12,19},{14,25}}
 
+// TODO: Support up-down symmetries. But only if not `settings.Numbered`.
+//       Also may have to choose between left-right and up-down b/c using
+//       both at the same time could be too conflicting. Experiment and see.
 // { 0,27},{1, 28},{2, 29},{ 3,30},{ 4,31},{ 5,32},{ 6,33},{ 7,34},{ 8,35},
 // { 9,18},{10,19},{11,20},{12,21},{13,22},{14,23},{15,24},{16,25},{17,26}
-
-//
-// Ergonmic (very ergonomic but maybe too weird)
-//
-var layout_numeric_point = []string{
-   "4", "x", "v",  "j", "5", "r",  "k", "g", "0",
-   "z", "p", "u",  "l", "y", "b",  "c", "f", "6",
-   "7", "n", "h",  "d", "8", "w",  "q", "m", "9",
-   "1", "a", "e",  "t", "2", "s",  "i", "o", "3" }
-
-var layout_topside_compromise = []string{
-  "gh","th","ng", "4", "ch","wh", "7", "sh","9",
-  "u", "b", "p",  "r", "l", "w",  "f", "v", "0",
-  "g", "h", "n",  "k", "j", "q",  "m", "y", "x",
-  "d", "t", "e",  "a", "c", "o",  "i", "s", "z" }
-
-var layout_numeric_compromise = []string{
-  "1", "2", "3",  "4", "5", "6",  "7", "8", "9", "u", "b", "p",  "r", "l", "w",  "f", "v", "0",
-  "g", "h", "n",  "k", "j", "q",  "m", "y", "x",
-  "d", "t", "e",  "a", "c", "o",  "i", "s", "z" }
-
-var layout_topside_alternate = []string{
-  "gh","th","ng", "4","ch", "6",  "wh","sh","9",
-  "g", "k", "r",  "u", "l", "0",  "w", "q", "x",
-  "b", "p", "n",  "h", "j", "y",  "m", "f", "v",
-  "d", "t", "e",  "a", "c", "o",  "i", "s", "z" }
-
-var layout_numeric_alternate = []string{
-  "1", "2", "3",  "4", "5", "6",  "7", "8", "9",
-  "g", "k", "w",  "c", "r", "j",  "y", "q", "x",
-  "b", "p", "m",  "h", "l", "0",  "n", "f", "v",
-  "d", "t", "e",  "a", "u", "i",  "o", "s", "z" }
-
-var layout_topside_third = []string{
-  "gh","qu","ng", "th","ch","sh", "wh","ph","-",
-  "q", "g", "k",  "n", "r", "l",  "w", "f", "0",
-  "x", "i", "h",  "d", "j", "z",  "p", "b", "v",
-  "y", "e", "a",  "t", "c", "s",  "m", "o", "u" }
-
-// Ergonomic (my original hand made version)
-var layout_numeric_original = []string{
-  "1", "2", "3",  "4", "5", "6",  "7", "8", "9",
-  "z", "g", "k",  "n", "v", "m",  "w", "r", "0",
-  "x", "t", "s",  "b", "j", "d",  "f", "c", "q",
-  "p", "a", "e",  "o", "u", "h",  "i", "l", "y" }
-
-var layout_topside_another = []string{
-  "gh","ph","ng", "th","sh","wh", "ch","8", "qu",
-  "z", "p", "u",  "l", "v", "f",  "c", "b", "0",
-  "x", "h", "n",  "d", "j", "w",  "m", "r", "q",
-  "g", "a", "e",  "t", "y", "s",  "i", "o", "k" }
-
-var layout_numeric_phonetic = []string{
-  "1", "2", "3",  "4", "5", "6",  "7", "8", "9",
-  "0", "u", "y",  "n", "r", "l",  "m", "h", "w",
-  "g", "e", "x",  "d", "j", "z",  "b", "i", "v",
-  "k", "a", "q",  "t", "c", "s",  "p", "o", "f" }
-
-var layout_topside_phonetic = []string{
-  "gh","2", "3", "th","ch","sh", "ph", "8", "wh",
-  "0", "u", "y",  "n", "r", "l",  "m", "h", "w",
-  "g", "e", "x",  "d", "j", "z",  "b", "i", "v",
-  "k", "a", "q",  "t", "c", "s",  "p", "o", "f" }
-
-var layout_advanced_symmetric = []string{
-  "f", "sh","qu", "m", "wh","w",  "gh","j", "v",
-  "c", "ch","th", "n", "l", "r",  "th","dj","x",
-  "p", "t", "k",  "ng","u", "y",  "g", "d", "b",
-  "ph","o", "s",  "i", "h", "e",  "z", "a", "'" }
-
-var layout_advanced_acoustic = []string{
-  "f", "ch","qu", "wh","h", "er", "'", "l", "an",
-  "v", "th","gh", "w", "r", "y",  "m", "n", "ng",
-  "u", "o", "a",  "z", "j", "x",  "b", "d", "g",  
-  "y", "i", "e",  "s", "sh","c",  "p", "t", "k" }
-
-var layout_advanced_articulate = []string{
-   "x", "g", "ng", "o","wh", "i",  "m", "b", "v",
-   "q", "k", "y",  "-", "-", "-",  "w", "p", "f",
-   "j", "d", "n",  "-", "-", "-",  "l", "z", "th",
-   "sh","t", "r",  "a", "u", "e",  "h", "s", "c" }
-
-var layout_advanced_plus = []string{
-  "x", "q", "y",  "o", "wh","i",  "w", "f", "v",
-  "g", "k","ng",  "-", "-", "-",  "m", "p", "b",
-  "j", "sh","r",  "-", "-", "-",  "h", "th","c",
-  "d", "t", "n",  "a", "u", "e",  "l", "s", "z" }
 
 //
 // Make a Keyboard given a layout.
@@ -165,52 +84,28 @@ func makeKeyboard(layout []string) Keyboard {
 //
 func (keyboard Keyboard) Display() {
   lay := keyboard.Layout
-  fmt.Printf("%2s %2s %2s | %2s %2s %2s | %2s %2s %2s\n", iface(lay[0:9])...)
-  fmt.Printf("%2s %2s %2s | %2s %2s %2s | %2s %2s %2s\n", iface(lay[9:18])...)
-  fmt.Println("------------------------------" )
-  fmt.Printf("%2s %2s %2s | %2s %2s %2s | %2s %2s %2s\n", iface(lay[18:27])...)
-  fmt.Printf("%2s %2s %2s | %2s %2s %2s | %2s %2s %2s\n", iface(lay[27:36])...)
-  fmt.Printf("(Score: %d)\n\n", keyboard.Score)
+  fmt.Printf("%2s %2s %2s  %2s %2s %2s  %2s %2s %2s\n", iface(lay[0:9])...)
+  fmt.Printf("%2s %2s %2s  %2s %2s %2s  %2s %2s %2s\n", iface(lay[9:18])...)
+  fmt.Printf("%2s %2s %2s  %2s %2s %2s  %2s %2s %2s\n", iface(lay[18:27])...)
+  fmt.Printf("%2s %2s %2s  %2s %2s %2s  %2s %2s %2s\n", iface(lay[27:36])...)
+  fmt.Printf("Score: %d\n\n", keyboard.Score)
 }
 
 //
-// Array of predefined keyboards.
 //
-func PredefinedKeyboards() map[string]Keyboard {
-  layouts := PredefinedLayouts()
-  keyboards := make(map[string]Keyboard, len(layouts))
-
-  for name, layout := range layouts {
-    keyboards[name] = makeKeyboard(layout)
+//
+func SavedKeyboards() []Keyboard {
+  keyboards := []Keyboard{}
+  for _, layout := range saved_layouts() {
+    keyboards = append(keyboards, makeKeyboard(layout))
   }
-
   return keyboards
 }
 
 //
-// Array of predefined layout letters.
-//
-func PredefinedLayouts() map[string][]string {
-  layouts := map[string][]string{
-    "Numeric Point":       layout_numeric_point,
-    "Numeric Original":    layout_numeric_original,
-    "Numeric Compromise":  layout_numeric_compromise,
-    "Numeric Alternate":   layout_numeric_alternate,
-    "Numeric Phonetic":    layout_numeric_phonetic,
-    "Topside Compromise":  layout_topside_compromise,
-    "Topside Alternate":   layout_topside_alternate,
-    "Topside Thrid":       layout_topside_third,
-    "Topside Another":     layout_topside_another,
-    "Advanced Symmetric":  layout_advanced_symmetric,
-    "Advanced Articulate": layout_advanced_articulate,
-    "Advanced Plus":       layout_advanced_plus }
-  return layouts
-}
-
 //
 //
-//
-func random_keyboard() Keyboard {
+func RandomKeyboard() Keyboard {
   if settings.Numbered {
     return makeKeyboard(append(numbers, randomize(alphabet)...))
   } else {

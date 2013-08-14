@@ -24,10 +24,14 @@ func Evolve(pop []Keyboard, count int) []Keyboard {
   best := 0
 
   for i := 0; i < count; i++ {
-    fmt.Printf("Generation %d @ %s\n", i+1, time.Now())
+    fmt.Printf("Generation #%d - ", i+1)
+
+    t := time.Now()
 
     pop = append(pop, breed(pop)...)
     pop = natural_selection(pop, size)
+
+    display_population(pop)
 
     if best < pop[0].Score {
       best = pop[0].Score
@@ -36,6 +40,9 @@ func Evolve(pop []Keyboard, count int) []Keyboard {
       size = size + 2
     }
 
+    fmt.Printf("Finished in %.0f seconds.\n\n", time.Since(t).Seconds())
+
+    fmt.Println("Best result:")
     pop[0].Display()
   }
 
@@ -43,29 +50,40 @@ func Evolve(pop []Keyboard, count int) []Keyboard {
 }
 
 //
-// Generate a population.
+// Generate a population with `n` random boards.
 //
-func Population() []Keyboard {
-  var pop []Keyboard
-
-  if settings.Numbered {
-    pop = []Keyboard{random_keyboard(), makeKeyboard(layout_numeric_compromise)}
-  } else {
-    pop = []Keyboard{random_keyboard(), makeKeyboard(layout_advanced_acoustic)}
+func Population(n int) []Keyboard {
+  pop := []Keyboard{}
+  for i := 0; i < n; i++ {
+    pop = append(pop, RandomKeyboard())
   }
   return pop
 }
 
 //
-//
+// Minimum population size.
 //
 const MINIMUM_POPULTATION = 16
 
 //
-//
+// Get the minimum population size.
 //
 func minimum_population() int {
   return MINIMUM_POPULTATION
+}
+
+//
+//
+//
+func display_population(pop []Keyboard) {
+  fmt.Println("")
+  for _, k := range pop {
+    for _, x := range k.Layout {
+      fmt.Printf("%3s", x)
+    }
+    fmt.Printf("   %d\n", k.Score)
+  }
+  fmt.Println("")
 }
 
 /*
@@ -103,7 +121,7 @@ func sort_population(pop []Keyboard) []Keyboard {
 // Sex!
 //
 func breed(pop []Keyboard) []Keyboard {
-  if settings.Debug { fmt.Printf("Breeding %d layouts\n", len(pop)) }
+  fmt.Printf("Breeding %d layouts\n", len(pop))
 
   var child Keyboard
   var gen []Keyboard
@@ -127,22 +145,19 @@ func cross(mother Keyboard, father Keyboard) Keyboard {
 
   offset := 0; if settings.Numbered { offset = 9 }
 
-  s := rand.Intn(len(genes) - offset) + offset
-  n := rand.Intn(len(genes) - offset) + offset
-
-  if (s < 9 || n < 9) {
-    fmt.Printf("How did it get under 9? %d %d", s, n)
-  }
-
-  if s > n { s, n = n, s }
+  // there is alwasy at least one crossover
+  var n = number_of_actions(1)
 
   var c string
   var x int
 
-  for i := s; i <= n; i++ {
+  for j := 0; j <= n; j++ {
+    i := rand.Intn(len(genes) - offset) + offset
+
     c = father.Layout[i]
     x = index(genes, c)
 
+    // if numbered layout index must never be more than 9
     if settings.Numbered && x < 9 {
       fmt.Printf("ERROR: Index is under 9: %s, %d!\n", c, x)
     }
@@ -153,6 +168,7 @@ func cross(mother Keyboard, father Keyboard) Keyboard {
     }
   }
 
+  // there shoud be no duplicate letters
   dups := duplicates(genes)
   if len(dups) > 0 {
     fmt.Printf("ERROR: duplicates from sex!\n%s\n%s\n%s\n%s", dups, mother.Layout, father.Layout, genes)
@@ -166,15 +182,12 @@ func cross(mother Keyboard, father Keyboard) Keyboard {
 // Evolutionary mutation, by swapping two positions.
 //
 func mutate(layout []string) []string {
-  // 50% of the time no mutations occur
-  if (rand.Intn(2) == 0) { return layout }
-
   offset := 0; if settings.Numbered { offset = 9 }
 
   var mutant []string = layout
 
-  // number of mutations
-  n := rand.Intn(len(layout))
+  // there is a 50% chance no mutations occur
+  var n = number_of_actions(0)
 
   for i := 0; i < n; i++ {
     i1 := rand.Intn(len(layout) - offset) + offset
@@ -188,6 +201,7 @@ func mutate(layout []string) []string {
     mutant = swap(layout, i1, i2)
   }
 
+  // there shoud be no duplicate letters
   dups := duplicates(mutant)
   if len(dups) > 0 {
     fmt.Printf("ERROR: Duplicate letter from mutation!\n%s", mutant)
@@ -215,6 +229,14 @@ func randomize_population(pop []Keyboard) []Keyboard {
       pop[i], pop[j] = pop[j], pop[i]
   }
   return pop
+}
+
+//
+//
+//
+func number_of_actions(num int) int {
+  if rand.Intn(2) == 1 { return num }
+  return number_of_actions(num + 1)
 }
 
 
