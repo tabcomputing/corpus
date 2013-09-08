@@ -1,4 +1,6 @@
 bin/
-data/
 pkg/
+src/
+data/
+
 

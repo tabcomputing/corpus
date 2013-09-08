@@ -9,7 +9,7 @@ package main
 import (
 	  "fmt"
     "os"
-	  "corpus/keyboard"
+	  "tabcomputing.com/corpus/keyboard"
     "github.com/davecheney/profile"
 )
 
