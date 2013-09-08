@@ -14,11 +14,19 @@ import (
 //
 //
 func randomize(strings []string) []string {
-    for i := range strings {
-        j := rand.Intn(i + 1)
-        strings[i], strings[j] = strings[j], strings[i]
+    indexes := rand.Perm(len(strings))
+
+    new_strings := make([]string, len(strings))
+
+    for i, x := range indexes {
+      new_strings[i] = strings[x]
     }
-    return strings
+
+    //for i := range strings {
+    //    j := rand.Intn(i + 1)
+    //    strings[i], strings[j] = strings[j], strings[i]
+    //}
+    return new_strings
 }
 
 /*

@@ -10,9 +10,12 @@ import (
 	  "fmt"
     "os"
 	  "corpus/keyboard"
+    "github.com/davecheney/profile"
 )
 
 func main() {
+    defer profile.Start(profile.CPUProfile).Stop()
+
     cmd := "evolve"
 
     if len(os.Args) > 1 { 
@@ -29,8 +32,10 @@ func main() {
     default:  // evolve
       fmt.Println("Evolving...\n")
 
+      // TODO: get 
+
       pop := keyboard.Population(8)
-      gen := keyboard.Evolve(pop, 1000)
+      gen := keyboard.Evolve(pop, 10)
 
       gen[0].Display()
       fmt.Printf("%d \n", keyboard.Score(gen[0]))

@@ -24,14 +24,7 @@ func Evolve(pop []Keyboard, count int) []Keyboard {
   best := 0
 
   for i := 0; i < count; i++ {
-    fmt.Printf("Generation #%d - ", i+1)
-
-    t := time.Now()
-
-    pop = append(pop, breed(pop)...)
-    pop = natural_selection(pop, size)
-
-    display_population(pop)
+    pop = evolveGeneration(i, pop, size)
 
     if best < pop[0].Score {
       best = pop[0].Score
@@ -40,11 +33,27 @@ func Evolve(pop []Keyboard, count int) []Keyboard {
       size = size + 2
     }
 
-    fmt.Printf("Finished in %.0f seconds.\n\n", time.Since(t).Seconds())
-
     fmt.Println("Best result:")
     pop[0].Display()
   }
+
+  return pop
+}
+
+//
+//
+//
+func evolveGeneration(index int, pop []Keyboard, size int) []Keyboard {
+  fmt.Printf("Generation #%d - ", index+1)
+
+  t := time.Now()
+
+  pop = append(pop, breed(pop)...)
+  pop = natural_selection(pop, size)
+
+  display_population(pop)
+
+  fmt.Printf("Finished in %.0f seconds.\n\n", time.Since(t).Seconds())
 
   return pop
 }
