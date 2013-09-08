@@ -1,42 +1,186 @@
+# GENERATED BOARDS
+
+# ? - categorical symmetry (not mirror symmetry)
 1  2  3    4  5  6    7  8  9
-0  x  k    y  q  l    g  z  j
-v  n  f    c  m  s    p  r  b
-h  e  o    t  u  d    a  i  w
+f  c  q    s  0  z    v  j  x
+p  t  k    m  n  l    b  d  g    
+u  w  o    e  y  i    a  r  h
+
+#
+1  2  3    4  5  6    7  8  9
+q  k  g    s  z  c    w  f  v
+p  t  d    m  l  n    b  x  j
+u  e  o    a  0  i    h  r  y
+
+# 761
+1  2  3    4  5  6    7  8  9
+0  b  x    r  w  l    z  v  g
+q  n  s    p  m  f    c  y  k
+d  t  a    e  u  i    o  h  j
+
+# HERE
+1  2  3    4  5  6    7  8  9
+g  b  x    n  m  l    z  v  0
+k  r  s    p  w  f    c  y  q
+d  t  a    e  u  i    o  h  j
 
 1  2  3    4  5  6    7  8  9
-q  v  p    r  j  l    f  b  0
-z  n  s    k  d  g    c  y  x
-m  t  e    a  u  o    i  h  w 
+g  b  x    n  m  l    z  v  0
+k  p  s    r  w  y    c  f  q
+d  t  a    e  u  i    o  h  j
 
+1  2  3    4  5  6    7  8  9
+g  d  b    n  m  l    v  h  0
+k  t  p    r  w  y    f  h  q
+x  s  a    e  u  i    o  z  c
+
+# 664 - linear symmetries only
+1  2  3    4  5  6    7  8  9
+z  v  w    r  0  l    m  b  x
+k  n  s    p  q  f    c  y  g
+d  t  a    e  u  i    o  h  j
+
+#
+1  2  3    4  5  6    7  8  9
+g  b  x    r  w  l    c  v  0
+k  n  s    p  m  f    z  y  q
+d  t  a    e  u  i    o  h  j
+
+#
+1  2  3    4  5  6    7  8  9
+g  k  z    r  w  y    x  q  0
+b  p  s    n  m  l    c  f  v
+d  t  a    e  u  i    o  h  j
+
+# 702
+1  2  3    4  5  6    7  8  9
+k  b  m    y  0  l    w  v  q
+x  n  d    p  g  f    j  r  z
+s  t  a    e  u  i    o  h  c
+
+# 702
+1  2  3    4  5  6    7  8  9
+k  b  m    y  0  l    w  v  q
+x  n  d    p  g  f    j  r  z
+s  t  a    e  u  i    o  h  c
+
+# 702
+1  2  3    4  5  6    7  8  9
+0  b  m    y  k  l    w  v  q
+x  n  d    p  g  f    j  r  z
+s  t  a    e  u  i    o  h  c
+
+# 678
 1  2  3    4  5  6    7  8  9
 0  b  m    y  x  l    w  v  z
 k  n  d    p  g  f    j  r  q
 s  e  h    o  u  a    t  i  c
 
+# 674
 1  2  3    4  5  6    7  8  9
-u  b  p    r  l  w    f  v  0
-g  h  n    k  j  q    m  y  x
-d  t  e    a  c  o    i  s  z 
+0  x  k    y  q  l    g  z  j
+v  n  f    c  m  s    p  r  b
+h  e  o    t  u  d    a  i  w
 
-1  2  3    4  5  6    7  8  9
-g  k  w    c  r  j    y  q  x
-b  p  m    h  l  0    n  f  v
-d  t  e    a  u  i    o  s  z 
-
+# 668
 1  2  3    4  5  6    7  8  9
 0  x  k    y  q  l    g  z  v
 b  n  w    c  u  s    m  r  p
 d  o  h    e  f  i    t  a  j
 
-# phonetic
+# 652
 1  2  3    4  5  6    7  8  9
-0  u  y    n  r  l    m  h  w
-g  e  x    d  j  z    b  i  v
-k  a  q    t  c  s    p  o  f
+p  b  m    y  0  l    w  v  f
+x  n  d    k  q  g    j  r  z
+s  t  a    e  u  i    o  h  c
 
-# ergonomic (my original hand made version)
+# 650
+1  2  3    4  5  6    7  8  9
+k  b  d    l  0  y    j  v  q
+z  n  m    p  g  f    w  r  x
+s  t  a    e  u  i    o  h  c
+
+# 627
+1  2  3    4  5  6    7  8  9
+q  v  p    r  j  l    f  b  0
+z  n  s    k  d  g    c  y  x
+m  t  e    a  u  o    i  h  w 
+
+
+# ADJUSTED GENERATED BOARDS
+
+# 627
+1  2  3    4  5  6    7  8  9
+0  v  w    c  x  j    r  f  q
+g  t  n    b  h  p    m  d  k
+s  y  a    e  u  i    o  l  z
+
+# 616
+1  2  3    4  5  6    7  8  9
+g  b  m    d  x  j    w  v  0
+k  t  r    p  h  f    n  c  q
+s  y  a    e  u  i    o  l  z
+
+# 446
+1  2  3    4  5  6   7  8  9
+q  k  j    l  x  c   w  y  0
+z  a  n    b  g  u   p  r  v
+d  e  h    t  m  s   o  i  f
+
+# 445
+1  2  3    4  5  6   7  8  9
+k  q  j    l  x  c   w  y  0
+z  a  d    b  g  u   p  r  v
+n  e  h    t  m  s   o  i  f
+
+
+# HANDMADE BOARDS
+
+# 509 -
+1  2  3    4  5  6    7  8  9
+0  j  v    w  r  y    f  c  q
+g  d  b    m  l  n    p  t  k
+x  z  o    e  u  i    a  s  h
+
+# 475 -
+1  2  3    4  5  6    7  8  9
+u  b  p    r  l  w    f  v  0
+g  h  n    k  j  q    m  y  x
+d  t  e    a  c  o    i  s  z 
+
+# 412 - ergonomic (my original hand made version)
 1  2  3    4  5  6    7  8  9
 z  g  k    n  v  m    w  r  0
 x  t  s    b  j  d    f  c  q
 p  a  e    o  u  h    i  l  y 
+
+# 397 -
+1  2  3    4  5  6    7  8  9
+f  c  q    w  r  y    v  j  0
+p  t  k    m  l  n    b  d  g
+e  s  h    o  u  a    i  z  x
+
+# 337 - phonetic column groups
+1  2  3    4  5  6    7  8  9
+y  u  0    n  r  l    m  h  w
+x  e  g    d  j  z    b  i  v
+q  a  k    t  c  s    p  o  f
+
+# 417 - semi-top-to-bottom design
+1  2  3    4  5  6    7  8  9
+g  k  w    c  r  j    y  q  x
+b  p  m    h  l  0    n  f  v
+d  t  e    a  u  i    o  s  z 
+
+# 444
+#q  k  s    1  2  3    z  g  x
+#f  p  m    4  5  6    h  b  v
+#c  t  n    7  8  9    l  d  j
+#u  e  a    w  0  y    i  o  r
+
+# 575
+#f  p  m    1  2  3    w  b  v
+#q  k  u    4  5  6    y  g  x
+#c  t  n    7  8  9    r  d  j
+#s  a  e    h  0  l    i  o  z
 
