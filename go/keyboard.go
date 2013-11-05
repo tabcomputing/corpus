@@ -4,7 +4,7 @@
  *     All Rights Reserved
 \******************************************************************************/
 
-package keyboard
+package corpus
 
 import (
   "fmt"

@@ -9,7 +9,7 @@ package main
 import (
 	  "fmt"
     "os"
-	  "tabcomputing.com/corpus/keyboard"
+	  "github.com/tabcomputing/corpus"
     "github.com/davecheney/profile"
 )
 
@@ -25,7 +25,7 @@ func main() {
     switch cmd {
     case "score":
       fmt.Println("Scoring...\n")
-      for i, k := range keyboard.SavedKeyboards() {
+      for i, k := range corpus.SavedKeyboards() {
         fmt.Printf("%d)\n", i)
         k.Display()
       }
@@ -34,11 +34,11 @@ func main() {
 
       // TODO: get 
 
-      pop := keyboard.Population(8)
-      gen := keyboard.Evolve(pop, 10)
+      pop := corpus.Population(8)
+      gen := corpus.Evolve(pop, 10)
 
       gen[0].Display()
-      fmt.Printf("%d \n", keyboard.Score(gen[0]))
+      fmt.Printf("%d \n", corpus.Score(gen[0]))
     }
 }
 
